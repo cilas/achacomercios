@@ -1,0 +1,21 @@
+version: "3.7"
+services:
+  #Node Service
+  app:
+    build:
+      context: .
+    image: cilas/react
+    container_name: react
+    restart: always
+    tty: true
+    working_dir: /usr/src/app
+    volumes:
+      - ./app/:/usr/src/app
+    ports:
+      - 3000:3000
+    networks:
+      - react_net
+#Docker Network
+networks:
+  react_net:
+    driver: bridge
