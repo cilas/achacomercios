@@ -1,7 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="29.7cm" height="21cm" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.1" viewBox="0 0 29700 21000" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata>
- <defs>
-  <style type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0.1 (1.0.1+r74)"
+   sodipodi:docname="logo.svg"
+   id="svg1258"
+   viewBox="0 0 5053.5415 2037.2923"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   version="1.1"
+   height="77"
+   width="191"
+   xml:space="preserve"><metadata
+   id="metadata1262"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1650"
+   inkscape:window-height="964"
+   id="namedview1260"
+   showgrid="false"
+   inkscape:zoom="0.96509921"
+   inkscape:cx="276.31506"
+   inkscape:cy="396.85039"
+   inkscape:window-x="0"
+   inkscape:window-y="27"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Camada_x0020_1"
+   inkscape:snap-page="false"
+   inkscape:document-rotation="0"
+   units="px" />
+ <defs
+   id="defs710">
+  <style
+   type="text/css"
+   id="style667">
    <![CDATA[
     .str0 {stroke:#FFFBD6;stroke-width:20}
     .str1 {stroke:#B9BBBD;stroke-width:7.62}
@@ -30,564 +74,2744 @@
     .fil18 {fill:url(#id6)}
    ]]>
   </style>
-    
-    <clipPath id="id1">
-     <path d="m10091 11529c1150-141 1380-626 1668-1263 329-763 329-1520-2-2271-1221-2374-4282 3269-1666 3534z"/>
+    <clipPath
+   id="id0">
+     <path
+   d="m 7519,6054 h 5217 v 6385 H 7519 Z"
+   id="path669" />
     </clipPath>
-  <linearGradient id="id2" x1="8404.5" x2="11546" y1="7361.2" y2="10550" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#FFCC29" offset="0"/>
-   <stop stop-color="#FFF2BF" offset=".41961"/>
-   <stop stop-color="#FFFBD6" offset="1"/>
+    <clipPath
+   id="id1">
+     <path
+   d="m 10091,11529 c 1150,-141 1380,-626 1668,-1263 329,-763 329,-1520 -2,-2271 -1221,-2374 -4282,3269 -1666,3534 z"
+   id="path672" />
+    </clipPath>
+  <linearGradient
+   id="id2"
+   gradientUnits="userSpaceOnUse"
+   x1="8404.4697"
+   y1="7361.21"
+   x2="11545.7"
+   y2="10549.7"
+   gradientTransform="matrix(0.25326753,0,0,0.25326753,-1823.3448,-1223.3135)">
+   <stop
+   offset="0"
+   style="stop-opacity:1; stop-color:#FFCC29"
+   id="stop675" />
+   <stop
+   offset="0.419608"
+   style="stop-opacity:1; stop-color:#FFF2BF"
+   id="stop677" />
+   <stop
+   offset="1"
+   style="stop-opacity:1; stop-color:#FFFBD6"
+   id="stop679" />
   </linearGradient>
-  <linearGradient id="id3" x1="8837" x2="9935.5" y1="8691.7" y2="8633.1" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#727376" offset="0"/>
-   <stop stop-color="#BDBFC1" offset=".50196"/>
-   <stop stop-color="#727376" offset="1"/>
+  <linearGradient
+   id="id3"
+   gradientUnits="userSpaceOnUse"
+   x1="8837.04"
+   y1="8691.6797"
+   x2="9935.4805"
+   y2="8633.1396"
+   gradientTransform="matrix(0.25326753,0,0,0.25326753,-1823.3448,-1223.3135)">
+   <stop
+   offset="0"
+   style="stop-opacity:1; stop-color:#727376"
+   id="stop682" />
+   <stop
+   offset="0.501961"
+   style="stop-opacity:1; stop-color:#BDBFC1"
+   id="stop684" />
+   <stop
+   offset="1"
+   style="stop-opacity:1; stop-color:#727376"
+   id="stop686" />
   </linearGradient>
-  <linearGradient id="id4" x1="9365.1" x2="12364" y1="9134.7" y2="9753.4" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#373435" offset="0"/>
-   <stop stop-color="#727376" offset=".8902"/>
-   <stop stop-color="#606062" offset="1"/>
+  <linearGradient
+   id="id4"
+   gradientUnits="userSpaceOnUse"
+   x1="9365.1104"
+   y1="9134.6904"
+   x2="12364.4"
+   y2="9753.4102"
+   gradientTransform="matrix(0.25326753,0,0,0.25326753,-1823.3448,-1223.3135)">
+   <stop
+   offset="0"
+   style="stop-opacity:1; stop-color:#373435"
+   id="stop689" />
+   <stop
+   offset="0.890196"
+   style="stop-opacity:1; stop-color:#727376"
+   id="stop691" />
+   <stop
+   offset="1"
+   style="stop-opacity:1; stop-color:#606062"
+   id="stop693" />
   </linearGradient>
-  <radialGradient id="id5" cx="10312" cy="11146" r="675.1" gradientTransform="matrix(2.2678 .38696 -.38696 2.2678 -8760 -18121)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#FEFEFE" offset="0"/>
-   <stop stop-color="#727376" offset=".52941"/>
-   <stop stop-color="#FEFEFE" offset="1"/>
+  <radialGradient
+   id="id5"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.57435505,0.09800491,-0.09800567,0.57436013,-4041.9684,-5812.7745)"
+   cx="10311.7"
+   cy="11145.7"
+   r="675.09998"
+   fx="10311.7"
+   fy="11145.7">
+   <stop
+   offset="0"
+   style="stop-opacity:1; stop-color:#FEFEFE"
+   id="stop696" />
+   <stop
+   offset="0.529412"
+   style="stop-opacity:1; stop-color:#727376"
+   id="stop698" />
+   <stop
+   offset="1"
+   style="stop-opacity:1; stop-color:#FEFEFE"
+   id="stop700" />
   </radialGradient>
-  <radialGradient id="id6" cx="8712" cy="10479" r="2090.7" gradientTransform="matrix(1.9617 -.1981 .1981 1.9617 -10454 -8352)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#373435" offset="0"/>
-   <stop stop-color="#D2D3D5" offset=".5098"/>
-   <stop stop-color="#373435" offset="1"/>
+  <radialGradient
+   id="id6"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.49682733,-0.05017179,0.05017205,0.49682986,-4471.0036,-3338.6039)"
+   cx="8711.9697"
+   cy="10478.9"
+   r="2090.7"
+   fx="8711.9697"
+   fy="10478.9">
+   <stop
+   offset="0"
+   style="stop-opacity:1; stop-color:#373435"
+   id="stop703" />
+   <stop
+   offset="0.509804"
+   style="stop-opacity:1; stop-color:#D2D3D5"
+   id="stop705" />
+   <stop
+   offset="1"
+   style="stop-opacity:1; stop-color:#373435"
+   id="stop707" />
   </radialGradient>
  </defs>
- 
+ <g
+   id="Camada_x0020_1">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
   
-  
-  <ellipse class="fil0 str0" cx="9975" cy="8955" rx="2258" ry="2843"/>
-  
-   <g clip-path="url(#id1)">
-    <polygon class="fil1" points="10560 10485 16303 9887 16291 9781"/>
-    <polygon class="fil1" points="10560 10485 16293 9798 16282 9710"/>
-    <polygon class="fil1" points="10560 10485 16284 9728 16272 9640"/>
-    <polygon class="fil1" points="10560 10485 16275 9657 16261 9569"/>
-    <polygon class="fil1" points="10560 10485 16264 9587 16250 9499"/>
-    <polygon class="fil1" points="10560 10485 16253 9517 16237 9429"/>
-    <polygon class="fil1" points="10560 10485 16240 9447 16224 9359"/>
-    <polygon class="fil1" points="10560 10485 16227 9377 16209 9290"/>
-    <polygon class="fil1" points="10560 10485 16213 9307 16194 9220"/>
-    <polygon class="fil2" points="10560 10485 16198 9237 16178 9151"/>
-    <polygon class="fil2" points="10560 10485 16182 9168 16161 9082"/>
-    <polygon class="fil2" points="10560 10485 16166 9099 16144 9013"/>
-    <polygon class="fil2" points="10560 10485 16148 9030 16125 8944"/>
-    <polygon class="fil2" points="10560 10485 16130 8961 16106 8876"/>
-    <polygon class="fil2" points="10560 10485 16110 8893 16085 8807"/>
-    <polygon class="fil2" points="10560 10485 16090 8824 16064 8739"/>
-    <polygon class="fil2" points="10560 10485 16070 8756 16042 8672"/>
-    <polygon class="fil2" points="10560 10485 16048 8689 16020 8604"/>
-    <polygon class="fil2" points="10560 10485 16025 8621 15996 8537"/>
-    <polygon class="fil2" points="10560 10485 16002 8554 15972 8470"/>
-    <polygon class="fil2" points="10560 10485 15978 8487 15946 8404"/>
-    <polygon class="fil2" points="10560 10485 15953 8420 15920 8338"/>
-    <polygon class="fil2" points="10560 10485 15927 8354 15894 8272"/>
-    <polygon class="fil2" points="10560 10485 15900 8288 15866 8206"/>
-    <polygon class="fil2" points="10560 10485 15873 8223 15837 8141"/>
-    <polygon class="fil2" points="10560 10485 15845 8157 15808 8076"/>
-    <polygon class="fil2" points="10560 10485 15815 8092 15778 8012"/>
-    <polygon class="fil2" points="10560 10485 15786 8028 15747 7948"/>
-    <polygon class="fil2" points="10560 10485 15755 7964 15716 7884"/>
-    <polygon class="fil3" points="10560 10485 15723 7900 15683 7821"/>
-    <polygon class="fil3" points="10560 10485 15691 7836 15650 7758"/>
-    <polygon class="fil3" points="10560 10485 15658 7773 15616 7695"/>
-    <polygon class="fil3" points="10560 10485 15624 7711 15581 7633"/>
-    <polygon class="fil3" points="10560 10485 15590 7649 15546 7571"/>
-    <polygon class="fil3" points="10560 10485 15555 7587 15509 7510"/>
-    <polygon class="fil3" points="10560 10485 15518 7525 15472 7449"/>
-    <polygon class="fil3" points="10560 10485 15482 7465 15435 7389"/>
-    <polygon class="fil3" points="10560 10485 15444 7404 15396 7329"/>
-    <polygon class="fil3" points="10560 10485 15406 7344 15357 7270"/>
-    <polygon class="fil3" points="10560 10485 15367 7285 15317 7211"/>
-    <polygon class="fil3" points="10560 10485 15327 7226 15276 7153"/>
-    <polygon class="fil3" points="10560 10485 15286 7167 15235 7095"/>
-    <polygon class="fil3" points="10560 10485 15245 7109 15193 7038"/>
-    <polygon class="fil3" points="10560 10485 15203 7052 15150 6981"/>
-    <polygon class="fil3" points="10560 10485 15161 6995 15106 6924"/>
-    <polygon class="fil3" points="10560 10485 15117 6939 15062 6869"/>
-    <polygon class="fil3" points="10560 10485 15073 6883 15017 6813"/>
-    <polygon class="fil3" points="10560 10485 15029 6827 14972 6759"/>
-    <polygon class="fil3" points="10560 10485 14983 6773 14926 6705"/>
-    <polygon class="fil4" points="10560 10485 14937 6718 14879 6651"/>
-    <polygon class="fil4" points="10560 10485 14890 6665 14831 6598"/>
-    <polygon class="fil4" points="10560 10485 14843 6612 14783 6546"/>
-    <polygon class="fil4" points="10560 10485 14795 6559 14734 6494"/>
-    <polygon class="fil4" points="10560 10485 14746 6507 14685 6443"/>
-    <polygon class="fil4" points="10560 10485 14697 6456 14634 6393"/>
-    <polygon class="fil4" points="10560 10485 14647 6405 14584 6343"/>
-    <polygon class="fil4" points="10560 10485 14596 6355 14532 6294"/>
-    <polygon class="fil4" points="10560 10485 14545 6306 14480 6245"/>
-    <polygon class="fil4" points="10560 10485 14493 6257 14428 6197"/>
-    <polygon class="fil4" points="10560 10485 14441 6209 14375 6150"/>
-    <polygon class="fil4" points="10560 10485 14388 6161 14321 6103"/>
-    <polygon class="fil4" points="10560 10485 14335 6115 14267 6057"/>
-    <polygon class="fil4" points="10560 10485 14280 6068 14212 6012"/>
-    <polygon class="fil4" points="10560 10485 14226 6023 14157 5967"/>
-    <polygon class="fil4" points="10560 10485 14170 5978 14101 5923"/>
-    <polygon class="fil4" points="10560 10485 14115 5934 14044 5880"/>
-    <polygon class="fil4" points="10560 10485 14058 5891 13987 5837"/>
-    <polygon class="fil4" points="10560 10485 14001 5848 13930 5795"/>
-    <polygon class="fil5" points="10560 10485 13944 5806 13872 5754"/>
-    <polygon class="fil5" points="10560 10485 13886 5764 13813 5714"/>
-    <polygon class="fil5" points="10560 10485 13828 5724 13754 5674"/>
-    <polygon class="fil5" points="10560 10485 13769 5684 13695 5635"/>
-    <polygon class="fil5" points="10560 10485 13710 5645 13635 5597"/>
-    <polygon class="fil5" points="10560 10485 13650 5606 13574 5559"/>
-    <polygon class="fil5" points="10560 10485 13589 5569 13513 5522"/>
-    <polygon class="fil5" points="10560 10485 13529 5532 13452 5486"/>
-    <polygon class="fil5" points="10560 10485 13467 5495 13390 5451"/>
-    <polygon class="fil5" points="10560 10485 13406 5460 13328 5417"/>
-    <polygon class="fil5" points="10560 10485 13343 5425 13265 5383"/>
-    <polygon class="fil5" points="10560 10485 13281 5391 13202 5350"/>
-    <polygon class="fil5" points="10560 10485 13218 5358 13139 5318"/>
-    <polygon class="fil5" points="10560 10485 13155 5326 13075 5286"/>
-    <polygon class="fil5" points="10560 10485 13091 5294 13011 5256"/>
-    <polygon class="fil5" points="10560 10485 13027 5263 12946 5226"/>
-    <polygon class="fil5" points="10560 10485 12962 5233 12881 5197"/>
-    <polygon class="fil5" points="10560 10485 12897 5204 12816 5169"/>
-    <polygon class="fil5" points="10560 10485 12832 5176 12750 5141"/>
-    <polygon class="fil5" points="10560 10485 12767 5148 12684 5115"/>
-    <polygon class="fil6" points="10560 10485 12701 5122 12618 5089"/>
-    <polygon class="fil6" points="10560 10485 12634 5096 12551 5064"/>
-    <polygon class="fil6" points="10560 10485 12568 5070 12484 5040"/>
-    <polygon class="fil6" points="10560 10485 12501 5046 12417 5017"/>
-    <polygon class="fil6" points="10560 10485 12434 5023 12350 4994"/>
-    <polygon class="fil6" points="10560 10485 12366 5e3 12282 4973"/>
-    <polygon class="fil6" points="10560 10485 12299 4978 12214 4952"/>
-    <polygon class="fil6" points="10560 10485 12231 4957 12145 4932"/>
-    <polygon class="fil6" points="10560 10485 12163 4937 12077 4913"/>
-    <polygon class="fil6" points="10560 10485 12094 4918 12008 4894"/>
-    <polygon class="fil6" points="10560 10485 12025 4899 11939 4877"/>
-    <polygon class="fil6" points="10560 10485 11956 4881 11870 4860"/>
-    <polygon class="fil6" points="10560 10485 11887 4865 11801 4845"/>
-    <polygon class="fil6" points="10560 10485 11818 4849 11731 4830"/>
-    <polygon class="fil6" points="10560 10485 11748 4834 11661 4816"/>
-    <polygon class="fil6" points="10560 10485 11679 4819 11591 4803"/>
-    <polygon class="fil6" points="10560 10485 11609 4806 11521 4790"/>
-    <polygon class="fil6" points="10560 10485 11539 4794 11451 4779"/>
-    <polygon class="fil6" points="10560 10485 11469 4782 11381 4768"/>
-    <polygon class="fil7" points="10560 10485 11398 4771 11310 4759"/>
-    <polygon class="fil7" points="10560 10485 11328 4761 11240 4750"/>
-    <polygon class="fil7" points="10560 10485 11257 4752 11169 4742"/>
-    <polygon class="fil7" points="10560 10485 11187 4744 11098 4735"/>
-    <polygon class="fil7" points="10560 10485 11116 4737 11027 4729"/>
-    <polygon class="fil7" points="10560 10485 11045 4730 10956 4723"/>
-    <polygon class="fil7" points="10560 10485 10974 4725 10885 4719"/>
-    <polygon class="fil7" points="10560 10485 10903 4720 10814 4715"/>
-    <polygon class="fil7" points="10560 10485 10832 4716 10743 4713"/>
-    <polygon class="fil7" points="10560 10485 10761 4713 10672 4711"/>
-    <polygon class="fil7" points="10560 10485 10690 4711 10601 4710"/>
-    <polygon class="fil7" points="10560 10485 10619 4710 10530 4710"/>
-    <polygon class="fil7" points="10560 10485 10548 4710 10459 4711"/>
-    <polygon class="fil7" points="10560 10485 10476 4711 10388 4712"/>
-    <polygon class="fil7" points="10560 10485 10405 4712 10316 4715"/>
-    <polygon class="fil7" points="10560 10485 10334 4714 10245 4718"/>
-    <polygon class="fil7" points="10560 10485 10263 4718 10174 4723"/>
-    <polygon class="fil7" points="10560 10485 10192 4722 10103 4728"/>
-    <polygon class="fil7" points="10560 10485 10121 4727 10033 4734"/>
-    <polygon class="fil7" points="10560 10485 10050 4732 9962 4741"/>
-    <polygon class="fil8" points="10560 10485 9979 4739 9891 4749"/>
-    <polygon class="fil8" points="10560 10485 9909 4747 9820 4757"/>
-    <polygon class="fil8" points="10560 10485 9838 4755 9750 4767"/>
-    <polygon class="fil8" points="10560 10485 9768 4765 9680 4777"/>
-    <polygon class="fil8" points="10560 10485 9697 4775 9609 4789"/>
-    <polygon class="fil8" points="10560 10485 9627 4786 9539 4801"/>
-    <polygon class="fil8" points="10560 10485 9557 4798 9469 4814"/>
-    <polygon class="fil8" points="10560 10485 9487 4811 9399 4828"/>
-    <polygon class="fil8" points="10560 10485 9417 4824 9330 4842"/>
-    <polygon class="fil8" points="10560 10485 9347 4839 9260 4858"/>
-    <polygon class="fil8" points="10560 10485 9278 4854 9191 4874"/>
-    <polygon class="fil8" points="10560 10485 9209 4870 9122 4892"/>
-    <polygon class="fil8" points="10560 10485 9139 4887 9053 4910"/>
-    <polygon class="fil8" points="10560 10485 9071 4905 8985 4929"/>
-    <polygon class="fil8" points="10560 10485 9002 4924 8916 4949"/>
-    <polygon class="fil8" points="10560 10485 8934 4944 8848 4969"/>
-    <polygon class="fil8" points="10560 10485 8865 4964 8781 4991"/>
-    <polygon class="fil8" points="10560 10485 8798 4985 8713 5013"/>
-    <polygon class="fil8" points="10560 10485 8730 5007 8646 5036"/>
-    <polygon class="fil8" points="10560 10485 8663 5030 8579 5060"/>
-    <polygon class="fil9" points="10560 10485 8596 5054 8512 5085"/>
-    <polygon class="fil9" points="10560 10485 8529 5079 8446 5111"/>
-    <polygon class="fil9" points="10560 10485 8462 5104 8380 5137"/>
-    <polygon class="fil9" points="10560 10485 8396 5131 8314 5164"/>
-    <polygon class="fil9" points="10560 10485 8330 5158 8249 5192"/>
-    <polygon class="fil9" points="10560 10485 8265 5185 8184 5221"/>
-    <polygon class="fil9" points="10560 10485 8200 5214 8119 5251"/>
-    <polygon class="fil9" points="10560 10485 8135 5244 8055 5281"/>
-    <polygon class="fil9" points="10560 10485 8071 5274 7991 5313"/>
-    <polygon class="fil9" points="10560 10485 8007 5305 7927 5345"/>
-    <polygon class="fil9" points="10560 10485 7943 5337 7864 5378"/>
-    <polygon class="fil9" points="10560 10485 7880 5369 7801 5411"/>
-    <polygon class="fil9" points="10560 10485 7817 5403 7739 5445"/>
-    <polygon class="fil9" points="10560 10485 7755 5437 7677 5481"/>
-    <polygon class="fil9" points="10560 10485 7693 5472 7616 5517"/>
-    <polygon class="fil9" points="10560 10485 7631 5508 7555 5553"/>
-    <polygon class="fil9" points="10560 10485 7570 5544 7494 5591"/>
-    <polygon class="fil9" points="10560 10485 7509 5581 7434 5629"/>
-    <polygon class="fil9" points="10560 10485 7449 5619 7375 5668"/>
-    <polygon class="fil10" points="10560 10485 7390 5658 7316 5707"/>
-    <polygon class="fil10" points="10560 10485 7330 5697 7257 5747"/>
-    <polygon class="fil10" points="10560 10485 7272 5737 7199 5789"/>
-    <polygon class="fil10" points="10560 10485 7213 5778 7141 5830"/>
-    <polygon class="fil10" points="10560 10485 7156 5820 7084 5873"/>
-    <polygon class="fil10" points="10560 10485 7098 5862 7028 5916"/>
-    <polygon class="fil10" points="10560 10485 7042 5905 6972 5960"/>
-    <polygon class="fil10" points="10560 10485 6986 5949 6916 6004"/>
-    <polygon class="fil10" points="10560 10485 6930 5993 6861 6050"/>
-    <polygon class="fil10" points="10560 10485 6875 6038 6807 6095"/>
-    <polygon class="fil10" points="10560 10485 6820 6084 6753 6142"/>
-    <polygon class="fil10" points="10560 10485 6767 6130 6700 6189"/>
-    <polygon class="fil10" points="10560 10485 6713 6177 6647 6237"/>
-    <polygon class="fil10" points="10560 10485 6660 6225 6595 6286"/>
-    <polygon class="fil10" points="10560 10485 6608 6274 6544 6335"/>
-    <polygon class="fil10" points="10560 10485 6557 6323 6493 6385"/>
-    <polygon class="fil10" points="10560 10485 6506 6372 6443 6435"/>
-    <polygon class="fil10" points="10560 10485 6455 6422 6393 6486"/>
-    <polygon class="fil10" points="10560 10485 6406 6473 6344 6538"/>
-    <polygon class="fil10" points="10560 10485 6356 6525 6296 6590"/>
-    <polygon class="fil11" points="10560 10485 6308 6577 6248 6643"/>
-    <polygon class="fil11" points="10560 10485 6260 6630 6201 6696"/>
-    <polygon class="fil11" points="10560 10485 6213 6683 6155 6750"/>
-    <polygon class="fil11" points="10560 10485 6167 6737 6109 6805"/>
-    <polygon class="fil11" points="10560 10485 6121 6791 6064 6860"/>
-    <polygon class="fil11" points="10560 10485 6076 6846 6020 6915"/>
-    <polygon class="fil11" points="10560 10485 6031 6902 5976 6972"/>
-    <polygon class="fil11" points="10560 10485 5987 6958 5933 7028"/>
-    <polygon class="fil11" points="10560 10485 5944 7014 5891 7086"/>
-    <polygon class="fil11" points="10560 10485 5902 7071 5850 7143"/>
-    <polygon class="fil11" points="10560 10485 5860 7129 5809 7202"/>
-    <polygon class="fil11" points="10560 10485 5819 7187 5769 7260"/>
-    <polygon class="fil11" points="10560 10485 5779 7246 5729 7320"/>
-    <polygon class="fil11" points="10560 10485 5739 7305 5691 7379"/>
-    <polygon class="fil11" points="10560 10485 5700 7365 5653 7440"/>
-    <polygon class="fil11" points="10560 10485 5662 7425 5616 7500"/>
-    <polygon class="fil11" points="10560 10485 5625 7485 5579 7561"/>
-    <polygon class="fil11" points="10560 10485 5588 7546 5544 7623"/>
-    <polygon class="fil11" points="10560 10485 5553 7608 5509 7685"/>
-    <polygon class="fil12" points="10560 10485 5518 7670 5475 7748"/>
-    <polygon class="fil12" points="10560 10485 5483 7732 5441 7810"/>
-    <polygon class="fil12" points="10560 10485 5450 7795 5409 7874"/>
-    <polygon class="fil12" points="10560 10485 5417 7858 5377 7937"/>
-    <polygon class="fil12" points="10560 10485 5385 7921 5346 8001"/>
-    <polygon class="fil12" points="10560 10485 5354 7985 5316 8066"/>
-    <polygon class="fil12" points="10560 10485 5323 8050 5286 8131"/>
-    <polygon class="fil12" points="10560 10485 5294 8114 5258 8196"/>
-    <polygon class="fil12" points="10560 10485 5265 8179 5230 8261"/>
-    <polygon class="fil12" points="10560 10485 5237 8245 5203 8327"/>
-    <polygon class="fil12" points="10560 10485 5210 8311 5177 8393"/>
-    <polygon class="fil12" points="10560 10485 5184 8377 5152 8460"/>
-    <polygon class="fil12" points="10560 10485 5158 8443 5127 8526"/>
-    <polygon class="fil12" points="10560 10485 5133 8510 5103 8593"/>
-    <polygon class="fil12" points="10560 10485 5109 8577 5080 8661"/>
-    <polygon class="fil12" points="10560 10485 5086 8644 5058 8728"/>
-    <polygon class="fil12" points="10560 10485 5064 8712 5037 8796"/>
-    <polygon class="fil12" points="10560 10485 5043 8779 5017 8865"/>
-    <polygon class="fil12" points="10560 10485 5022 8848 4997 8933"/>
-    <polygon class="fil12" points="10560 10485 5002 8916 4979 9002"/>
-    <polygon class="fil13" points="10560 10485 4983 8984 4961 9070"/>
-    <polygon class="fil13" points="10560 10485 4965 9053 4944 9140"/>
-    <polygon class="fil13" points="10560 10485 4948 9122 4928 9209"/>
-    <polygon class="fil13" points="10560 10485 4932 9192 4912 9278"/>
-    <polygon class="fil13" points="10560 10485 4916 9261 4898 9348"/>
-    <polygon class="fil13" points="10560 10485 4902 9331 4884 9418"/>
-    <polygon class="fil13" points="10560 10485 4888 9400 4872 9488"/>
-    <polygon class="fil13" points="10560 10485 4875 9470 4860 9558"/>
-    <polygon class="fil13" points="10560 10485 4863 9540 4849 9628"/>
-    <polygon class="fil13" points="10560 10485 4852 9611 4839 9699"/>
-    <polygon class="fil13" points="10560 10485 4841 9681 4829 9769"/>
-    <polygon class="fil13" points="10560 10485 4832 9752 4821 9840"/>
-    <polygon class="fil13" points="10560 10485 4823 9822 4813 9911"/>
-    <polygon class="fil13" points="10560 10485 4815 9893 4807 9981"/>
-    <polygon class="fil13" points="10560 10485 4809 9964 4801 10052"/>
-    <polygon class="fil13" points="10560 10485 4803 10035 4796 10123"/>
-    <polygon class="fil13" points="10560 10485 4797 10106 4792 10194"/>
-    <polygon class="fil13" points="10560 10485 4793 10177 4789 10265"/>
-    <polygon class="fil13" points="10560 10485 4790 10248 4787 10337"/>
-    <polygon class="fil13" points="10560 10485 4787 10319 4785 10408"/>
-    <polygon class="fil14" points="10560 10485 4786 10390 4785 10479"/>
-    <polygon class="fil14" points="10560 10485 4785 10461 4785 10550"/>
-    <polygon class="fil14" points="10560 10485 4785 10532 4787 10621"/>
-    <polygon class="fil14" points="10560 10485 4786 10603 4789 10692"/>
-    <polygon class="fil14" points="10560 10485 4788 10674 4792 10763"/>
-    <polygon class="fil14" points="10560 10485 4791 10746 4796 10834"/>
-    <polygon class="fil14" points="10560 10485 4795 10817 4800 10905"/>
-    <polygon class="fil14" points="10560 10485 4799 10888 4806 10976"/>
-    <polygon class="fil14" points="10560 10485 4805 10959 4812 11047"/>
-    <polygon class="fil14" points="10560 10485 4811 11029 4820 11118"/>
-    <polygon class="fil14" points="10560 10485 4818 11100 4828 11189"/>
-    <polygon class="fil14" points="10560 10485 4826 11171 4837 11259"/>
-    <polygon class="fil14" points="10560 10485 4835 11241 4847 11330"/>
-    <polygon class="fil14" points="10560 10485 4845 11312 4858 11400"/>
-    <polygon class="fil14" points="10560 10485 4855 11382 4870 11470"/>
-    <polygon class="fil14" points="10560 10485 4867 11452 4882 11540"/>
-    <polygon class="fil14" points="10560 10485 4879 11523 4896 11610"/>
-    <polygon class="fil14" points="10560 10485 4892 11592 4910 11680"/>
-    <polygon class="fil14" points="10560 10485 4906 11662 4925 11749"/>
-    <polygon class="fil13" points="10560 10485 4921 11732 4941 11818"/>
-    <polygon class="fil13" points="10560 10485 4937 11801 4958 11888"/>
-    <polygon class="fil13" points="10560 10485 4954 11870 4976 11956"/>
-    <polygon class="fil13" points="10560 10485 4971 11939 4994 12025"/>
-    <polygon class="fil13" points="10560 10485 4990 12008 5014 12094"/>
-    <polygon class="fil13" points="10560 10485 5009 12076 5034 12162"/>
-    <polygon class="fil13" points="10560 10485 5029 12145 5055 12230"/>
-    <polygon class="fil13" points="10560 10485 5050 12213 5077 12297"/>
-    <polygon class="fil13" points="10560 10485 5071 12280 5100 12365"/>
-    <polygon class="fil13" points="10560 10485 5094 12348 5123 12432"/>
-    <polygon class="fil13" points="10560 10485 5117 12415 5148 12499"/>
-    <polygon class="fil13" points="10560 10485 5142 12482 5173 12565"/>
-    <polygon class="fil13" points="10560 10485 5167 12549 5199 12631"/>
-    <polygon class="fil13" points="10560 10485 5192 12615 5226 12697"/>
-    <polygon class="fil13" points="10560 10485 5219 12681 5253 12763"/>
-    <polygon class="fil13" points="10560 10485 5246 12747 5282 12828"/>
-    <polygon class="fil13" points="10560 10485 5275 12812 5311 12893"/>
-    <polygon class="fil13" points="10560 10485 5304 12877 5341 12957"/>
-    <polygon class="fil13" points="10560 10485 5334 12941 5372 13022"/>
-    <polygon class="fil13" points="10560 10485 5364 13005 5404 13085"/>
-    <polygon class="fil12" points="10560 10485 5396 13069 5436 13149"/>
-    <polygon class="fil12" points="10560 10485 5428 13133 5469 13212"/>
-    <polygon class="fil12" points="10560 10485 5461 13196 5503 13274"/>
-    <polygon class="fil12" points="10560 10485 5495 13258 5538 13336"/>
-    <polygon class="fil12" points="10560 10485 5529 13321 5574 13398"/>
-    <polygon class="fil12" points="10560 10485 5565 13382 5610 13459"/>
-    <polygon class="fil12" points="10560 10485 5601 13444 5647 13520"/>
-    <polygon class="fil12" points="10560 10485 5638 13504 5685 13580"/>
-    <polygon class="fil12" points="10560 10485 5675 13565 5723 13640"/>
-    <polygon class="fil12" points="10560 10485 5714 13625 5762 13699"/>
-    <polygon class="fil12" points="10560 10485 5753 13684 5802 13758"/>
-    <polygon class="fil12" points="10560 10485 5792 13743 5843 13816"/>
-    <polygon class="fil12" points="10560 10485 5833 13802 5884 13874"/>
-    <polygon class="fil12" points="10560 10485 5874 13860 5927 13932"/>
-    <polygon class="fil12" points="10560 10485 5916 13917 5969 13988"/>
-    <polygon class="fil12" points="10560 10485 5959 13974 6013 14045"/>
-    <polygon class="fil12" points="10560 10485 6002 14031 6057 14100"/>
-    <polygon class="fil12" points="10560 10485 6046 14086 6102 14156"/>
-    <polygon class="fil12" points="10560 10485 6091 14142 6148 14210"/>
-    <polygon class="fil12" points="10560 10485 6136 14197 6194 14264"/>
-    <polygon class="fil11" points="10560 10485 6182 14251 6241 14318"/>
-    <polygon class="fil11" points="10560 10485 6229 14304 6288 14371"/>
-    <polygon class="fil11" points="10560 10485 6276 14357 6336 14423"/>
-    <polygon class="fil11" points="10560 10485 6324 14410 6385 14475"/>
-    <polygon class="fil11" points="10560 10485 6373 14462 6435 14526"/>
-    <polygon class="fil11" points="10560 10485 6422 14513 6485 14576"/>
-    <polygon class="fil11" points="10560 10485 6472 14564 6536 14626"/>
-    <polygon class="fil11" points="10560 10485 6523 14614 6587 14676"/>
-    <polygon class="fil11" points="10560 10485 6574 14663 6639 14724"/>
-    <polygon class="fil11" points="10560 10485 6626 14712 6691 14772"/>
-    <polygon class="fil11" points="10560 10485 6678 14760 6744 14820"/>
-    <polygon class="fil11" points="10560 10485 6731 14808 6798 14866"/>
-    <polygon class="fil11" points="10560 10485 6785 14854 6852 14912"/>
-    <polygon class="fil11" points="10560 10485 6839 14901 6907 14958"/>
-    <polygon class="fil11" points="10560 10485 6894 14946 6963 15002"/>
-    <polygon class="fil11" points="10560 10485 6949 14991 7019 15046"/>
-    <polygon class="fil11" points="10560 10485 7005 15035 7075 15089"/>
-    <polygon class="fil11" points="10560 10485 7061 15079 7132 15132"/>
-    <polygon class="fil11" points="10560 10485 7118 15121 7190 15174"/>
-    <polygon class="fil10" points="10560 10485 7175 15163 7248 15215"/>
-    <polygon class="fil10" points="10560 10485 7233 15205 7306 15256"/>
-    <polygon class="fil10" points="10560 10485 7291 15245 7365 15295"/>
-    <polygon class="fil10" points="10560 10485 7350 15285 7425 15334"/>
-    <polygon class="fil10" points="10560 10485 7410 15324 7485 15372"/>
-    <polygon class="fil10" points="10560 10485 7470 15363 7545 15410"/>
-    <polygon class="fil10" points="10560 10485 7530 15401 7606 15447"/>
-    <polygon class="fil10" points="10560 10485 7591 15438 7667 15483"/>
-    <polygon class="fil10" points="10560 10485 7652 15474 7729 15518"/>
-    <polygon class="fil10" points="10560 10485 7714 15509 7791 15552"/>
-    <polygon class="fil10" points="10560 10485 7776 15544 7854 15586"/>
-    <polygon class="fil10" points="10560 10485 7838 15578 7917 15619"/>
-    <polygon class="fil10" points="10560 10485 7901 15611 7981 15651"/>
-    <polygon class="fil10" points="10560 10485 7965 15643 8044 15683"/>
-    <polygon class="fil10" points="10560 10485 8028 15675 8109 15713"/>
-    <polygon class="fil10" points="10560 10485 8093 15706 8173 15743"/>
-    <polygon class="fil10" points="10560 10485 8157 15736 8238 15772"/>
-    <polygon class="fil10" points="10560 10485 8222 15765 8303 15800"/>
-    <polygon class="fil10" points="10560 10485 8287 15793 8369 15828"/>
-    <polygon class="fil10" points="10560 10485 8353 15821 8435 15854"/>
-    <polygon class="fil9" points="10560 10485 8419 15848 8501 15880"/>
-    <polygon class="fil9" points="10560 10485 8485 15874 8568 15905"/>
-    <polygon class="fil9" points="10560 10485 8551 15899 8635 15929"/>
-    <polygon class="fil9" points="10560 10485 8618 15923 8702 15952"/>
-    <polygon class="fil9" points="10560 10485 8685 15947 8770 15975"/>
-    <polygon class="fil9" points="10560 10485 8753 15969 8837 15997"/>
-    <polygon class="fil9" points="10560 10485 8821 15991 8906 16017"/>
-    <polygon class="fil9" points="10560 10485 8889 16012 8974 16037"/>
-    <polygon class="fil9" points="10560 10485 8957 16032 9042 16056"/>
-    <polygon class="fil9" points="10560 10485 9025 16052 9111 16075"/>
-    <polygon class="fil9" points="10560 10485 9094 16070 9180 16092"/>
-    <polygon class="fil9" points="10560 10485 9163 16088 9249 16109"/>
-    <polygon class="fil9" points="10560 10485 9232 16104 9319 16124"/>
-    <polygon class="fil9" points="10560 10485 9301 16120 9388 16139"/>
-    <polygon class="fil9" points="10560 10485 9371 16135 9458 16153"/>
-    <polygon class="fil9" points="10560 10485 9441 16150 9528 16166"/>
-    <polygon class="fil9" points="10560 10485 9510 16163 9598 16179"/>
-    <polygon class="fil9" points="10560 10485 9580 16176 9668 16190"/>
-    <polygon class="fil9" points="10560 10485 9651 16187 9739 16201"/>
-    <polygon class="fil8" points="10560 10485 9721 16198 9809 16210"/>
-    <polygon class="fil8" points="10560 10485 9791 16208 9880 16219"/>
-    <polygon class="fil8" points="10560 10485 9862 16217 9950 16227"/>
-    <polygon class="fil8" points="10560 10485 9933 16225 10021 16234"/>
-    <polygon class="fil8" points="10560 10485 10003 16232 10092 16240"/>
-    <polygon class="fil8" points="10560 10485 10074 16239 10163 16246"/>
-    <polygon class="fil8" points="10560 10485 10145 16244 10234 16250"/>
-    <polygon class="fil8" points="10560 10485 10216 16249 10305 16254"/>
-    <polygon class="fil8" points="10560 10485 10287 16253 10376 16256"/>
-    <polygon class="fil8" points="10560 10485 10358 16256 10447 16258"/>
-    <polygon class="fil8" points="10560 10485 10429 16258 10518 16259"/>
-    <polygon class="fil8" points="10560 10485 10501 16259 10589 16259"/>
-    <polygon class="fil8" points="10560 10485 10572 16259 10661 16258"/>
-    <polygon class="fil8" points="10560 10485 10643 16259 10732 16257"/>
-    <polygon class="fil8" points="10560 10485 10714 16257 10803 16254"/>
-    <polygon class="fil8" points="10560 10485 10785 16255 10874 16251"/>
-    <polygon class="fil8" points="10560 10485 10856 16252 10945 16246"/>
-    <polygon class="fil8" points="10560 10485 10927 16247 11016 16241"/>
-    <polygon class="fil8" points="10560 10485 10998 16242 11087 16235"/>
-    <polygon class="fil8" points="10560 10485 11069 16237 11158 16228"/>
-    <polygon class="fil7" points="10560 10485 11140 16230 11228 16220"/>
-    <polygon class="fil7" points="10560 10485 11211 16222 11299 16212"/>
-    <polygon class="fil7" points="10560 10485 11281 16214 11369 16202"/>
-    <polygon class="fil7" points="10560 10485 11352 16205 11440 16192"/>
-    <polygon class="fil7" points="10560 10485 11422 16194 11510 16181"/>
-    <polygon class="fil7" points="10560 10485 11492 16183 11580 16168"/>
-    <polygon class="fil7" points="10560 10485 11563 16171 11650 16155"/>
-    <polygon class="fil7" points="10560 10485 11633 16159 11720 16142"/>
-    <polygon class="fil7" points="10560 10485 11702 16145 11789 16127"/>
-    <polygon class="fil7" points="10560 10485 11772 16130 11859 16111"/>
-    <polygon class="fil7" points="10560 10485 11842 16115 11928 16095"/>
-    <polygon class="fil7" points="10560 10485 11911 16099 11997 16078"/>
-    <polygon class="fil7" points="10560 10485 11980 16082 12066 16059"/>
-    <polygon class="fil7" points="10560 10485 12049 16064 12134 16040"/>
-    <polygon class="fil7" points="10560 10485 12117 16045 12203 16021"/>
-    <polygon class="fil7" points="10560 10485 12186 16025 12271 16000"/>
-    <polygon class="fil7" points="10560 10485 12254 16005 12339 15978"/>
-    <polygon class="fil7" points="10560 10485 12322 15984 12406 15956"/>
-    <polygon class="fil7" points="10560 10485 12389 15962 12474 15933"/>
-    <polygon class="fil7" points="10560 10485 12457 15939 12540 15909"/>
-    <polygon class="fil6" points="10560 10485 12524 15915 12607 15884"/>
-    <polygon class="fil6" points="10560 10485 12590 15890 12674 15858"/>
-    <polygon class="fil6" points="10560 10485 12657 15865 12740 15832"/>
-    <polygon class="fil6" points="10560 10485 12723 15839 12805 15805"/>
-    <polygon class="fil6" points="10560 10485 12789 15812 12871 15777"/>
-    <polygon class="fil6" points="10560 10485 12854 15784 12936 15748"/>
-    <polygon class="fil6" points="10560 10485 12919 15755 13000 15718"/>
-    <polygon class="fil6" points="10560 10485 12984 15726 13065 15688"/>
-    <polygon class="fil6" points="10560 10485 13049 15695 13129 15656"/>
-    <polygon class="fil6" points="10560 10485 13113 15664 13192 15624"/>
-    <polygon class="fil6" points="10560 10485 13176 15632 13255 15592"/>
-    <polygon class="fil6" points="10560 10485 13239 15600 13318 15558"/>
-    <polygon class="fil6" points="10560 10485 13302 15566 13380 15524"/>
-    <polygon class="fil6" points="10560 10485 13365 15532 13442 15488"/>
-    <polygon class="fil6" points="10560 10485 13427 15497 13503 15453"/>
-    <polygon class="fil6" points="10560 10485 13488 15462 13564 15416"/>
-    <polygon class="fil6" points="10560 10485 13549 15425 13625 15379"/>
-    <polygon class="fil6" points="10560 10485 13610 15388 13685 15340"/>
-    <polygon class="fil6" points="10560 10485 13670 15350 13745 15302"/>
-    <polygon class="fil5" points="10560 10485 13730 15311 13804 15262"/>
-    <polygon class="fil5" points="10560 10485 13789 15272 13862 15222"/>
-    <polygon class="fil5" points="10560 10485 13848 15232 13920 15181"/>
-    <polygon class="fil5" points="10560 10485 13906 15191 13978 15139"/>
-    <polygon class="fil5" points="10560 10485 13964 15149 14035 15096"/>
-    <polygon class="fil5" points="10560 10485 14021 15107 14092 15053"/>
-    <polygon class="fil5" points="10560 10485 14078 15064 14148 15009"/>
-    <polygon class="fil5" points="10560 10485 14134 15020 14203 14965"/>
-    <polygon class="fil5" points="10560 10485 14189 14976 14258 14920"/>
-    <polygon class="fil5" points="10560 10485 14244 14931 14312 14874"/>
-    <polygon class="fil5" points="10560 10485 14299 14885 14366 14827"/>
-    <polygon class="fil5" points="10560 10485 14353 14839 14419 14780"/>
-    <polygon class="fil5" points="10560 10485 14406 14792 14472 14732"/>
-    <polygon class="fil5" points="10560 10485 14459 14744 14524 14683"/>
-    <polygon class="fil5" points="10560 10485 14511 14696 14576 14634"/>
-    <polygon class="fil5" points="10560 10485 14563 14647 14626 14584"/>
-    <polygon class="fil5" points="10560 10485 14614 14597 14677 14534"/>
-    <polygon class="fil5" points="10560 10485 14664 14547 14726 14483"/>
-    <polygon class="fil5" points="10560 10485 14714 14496 14775 14431"/>
-    <polygon class="fil5" points="10560 10485 14763 14444 14823 14379"/>
-    <polygon class="fil4" points="10560 10485 14811 14392 14871 14326"/>
-    <polygon class="fil4" points="10560 10485 14859 14340 14918 14273"/>
-    <polygon class="fil4" points="10560 10485 14906 14286 14964 14219"/>
-    <polygon class="fil4" points="10560 10485 14953 14232 15010 14164"/>
-    <polygon class="fil4" points="10560 10485 14999 14178 15055 14109"/>
-    <polygon class="fil4" points="10560 10485 15044 14123 15099 14054"/>
-    <polygon class="fil4" points="10560 10485 15088 14068 15143 13997"/>
-    <polygon class="fil4" points="10560 10485 15132 14011 15186 13941"/>
-    <polygon class="fil4" points="10560 10485 15175 13955 15228 13883"/>
-    <polygon class="fil4" points="10560 10485 15218 13898 15270 13826"/>
-    <polygon class="fil4" points="10560 10485 15259 13840 15310 13767"/>
-    <polygon class="fil4" points="10560 10485 15300 13782 15351 13709"/>
-    <polygon class="fil4" points="10560 10485 15340 13723 15390 13649"/>
-    <polygon class="fil4" points="10560 10485 15380 13664 15429 13590"/>
-    <polygon class="fil4" points="10560 10485 15419 13605 15466 13529"/>
-    <polygon class="fil4" points="10560 10485 15457 13544 15504 13469"/>
-    <polygon class="fil4" points="10560 10485 15494 13484 15540 13408"/>
-    <polygon class="fil4" points="10560 10485 15531 13423 15576 13346"/>
-    <polygon class="fil4" points="10560 10485 15567 13361 15610 13284"/>
-    <polygon class="fil3" points="10560 10485 15602 13299 15645 13222"/>
-    <polygon class="fil3" points="10560 10485 15636 13237 15678 13159"/>
-    <polygon class="fil3" points="10560 10485 15670 13174 15710 13095"/>
-    <polygon class="fil3" points="10560 10485 15702 13111 15742 13032"/>
-    <polygon class="fil3" points="10560 10485 15734 13048 15773 12968"/>
-    <polygon class="fil3" points="10560 10485 15765 12984 15803 12903"/>
-    <polygon class="fil3" points="10560 10485 15796 12919 15833 12839"/>
-    <polygon class="fil3" points="10560 10485 15825 12855 15861 12773"/>
-    <polygon class="fil3" points="10560 10485 15854 12790 15889 12708"/>
-    <polygon class="fil3" points="10560 10485 15882 12724 15916 12642"/>
-    <polygon class="fil3" points="10560 10485 15909 12659 15942 12576"/>
-    <polygon class="fil3" points="10560 10485 15936 12592 15968 12509"/>
-    <polygon class="fil3" points="10560 10485 15961 12526 15992 12443"/>
-    <polygon class="fil3" points="10560 10485 15986 12459 16016 12376"/>
-    <polygon class="fil3" points="10560 10485 16010 12392 16039 12308"/>
-    <polygon class="fil3" points="10560 10485 16033 12325 16061 12241"/>
-    <polygon class="fil3" points="10560 10485 16055 12258 16082 12173"/>
-    <polygon class="fil3" points="10560 10485 16077 12190 16102 12105"/>
-    <polygon class="fil3" points="10560 10485 16097 12122 16122 12036"/>
-    <polygon class="fil3" points="10560 10485 16117 12053 16141 11968"/>
-    <polygon class="fil2" points="10560 10485 16136 11985 16159 11899"/>
-    <polygon class="fil2" points="10560 10485 16154 11916 16176 11830"/>
-    <polygon class="fil2" points="10560 10485 16171 11847 16192 11760"/>
-    <polygon class="fil2" points="10560 10485 16188 11778 16207 11691"/>
-    <polygon class="fil2" points="10560 10485 16203 11708 16221 11621"/>
-    <polygon class="fil2" points="10560 10485 16218 11639 16235 11551"/>
-    <polygon class="fil2" points="10560 10485 16232 11569 16248 11481"/>
-    <polygon class="fil2" points="10560 10485 16244 11499 16260 11411"/>
-    <polygon class="fil2" points="10560 10485 16257 11429 16271 11341"/>
-    <polygon class="fil2" points="10560 10485 16268 11358 16281 11270"/>
-    <polygon class="fil2" points="10560 10485 16278 11288 16290 11200"/>
-    <polygon class="fil2" points="10560 10485 16288 11218 16298 11129"/>
-    <polygon class="fil2" points="10560 10485 16296 11147 16306 11058"/>
-    <polygon class="fil2" points="10560 10485 16304 11076 16312 10988"/>
-    <polygon class="fil2" points="10560 10485 16311 11005 16318 10917"/>
-    <polygon class="fil2" points="10560 10485 16317 10934 16323 10846"/>
-    <polygon class="fil2" points="10560 10485 16322 10864 16327 10775"/>
-    <polygon class="fil2" points="10560 10485 16326 10792 16330 10704"/>
-    <polygon class="fil2" points="10560 10485 16329 10721 16332 10633"/>
-    <polygon class="fil2" points="10560 10485 16332 10650 16334 10561"/>
-    <polygon class="fil1" points="10560 10485 16333 10579 16334 10490"/>
-    <polygon class="fil1" points="10560 10485 16334 10508 16334 10419"/>
-    <polygon class="fil1" points="10560 10485 16334 10437 16333 10348"/>
-    <polygon class="fil1" points="10560 10485 16333 10366 16331 10277"/>
-    <polygon class="fil1" points="10560 10485 16331 10295 16328 10206"/>
-    <polygon class="fil1" points="10560 10485 16328 10224 16324 10135"/>
-    <polygon class="fil1" points="10560 10485 16325 10153 16319 10064"/>
-    <polygon class="fil1" points="10560 10485 16320 10082 16313 9993"/>
-    <polygon class="fil1" points="10560 10485 16315 10011 16307 9922"/>
-    <polygon class="fil1" points="10560 10485 16308 9940 16301 9869"/>
+  <path
+   id="ellipse718"
+   style="fill:url(#id2);stroke:#fffbd6;stroke-width:20"
+   d="m 1274.8772,1044.6974 a 571.87805,720.03961 0 0 1 -571.878,720.0397 571.87805,720.03961 0 0 1 -571.878,-720.0397 571.87805,720.03961 0 0 1 571.878,-720.03945 571.87805,720.03961 0 0 1 571.878,720.03945 z"
+   class="fil0 str0" />
+  <g
+   id="g1233"
+   transform="matrix(0.25326753,0,0,0.25326753,-1823.3448,-1223.3135)">
+   <g
+   clip-path="url(#id1)"
+   id="g1231">
+    <path
+   id="polygon720"
+   style="fill:#f1f1f2"
+   d="m 16291,9781 -5731,704 5743,-598 z"
+   class="fil1" />
+    <path
+   id="1"
+   style="fill:#f1f1f2"
+   d="m 16282,9710 -5722,775 5733,-687 z"
+   class="fil1" />
+    <path
+   id="2"
+   style="fill:#f1f1f2"
+   d="m 16272,9640 -5712,845 5724,-757 z"
+   class="fil1" />
+    <path
+   id="3"
+   style="fill:#f1f1f2"
+   d="m 16261,9569 -5701,916 5715,-828 z"
+   class="fil1" />
+    <path
+   id="4"
+   style="fill:#f1f1f2"
+   d="m 16250,9499 -5690,986 5704,-898 z"
+   class="fil1" />
+    <path
+   id="5"
+   style="fill:#f1f1f2"
+   d="m 16237,9429 -5677,1056 5693,-968 z"
+   class="fil1" />
+    <path
+   id="6"
+   style="fill:#f1f1f2"
+   d="m 16224,9359 -5664,1126 5680,-1038 z"
+   class="fil1" />
+    <path
+   id="7"
+   style="fill:#f1f1f2"
+   d="m 16209,9290 -5649,1195 5667,-1108 z"
+   class="fil1" />
+    <path
+   id="8"
+   style="fill:#f1f1f2"
+   d="m 16194,9220 -5634,1265 5653,-1178 z"
+   class="fil1" />
+    <path
+   id="9"
+   style="fill:#f1f2f2"
+   d="m 16178,9151 -5618,1334 5638,-1248 z"
+   class="fil2" />
+    <path
+   id="10"
+   style="fill:#f1f2f2"
+   d="m 16161,9082 -5601,1403 5622,-1317 z"
+   class="fil2" />
+    <path
+   id="11"
+   style="fill:#f1f2f2"
+   d="m 16144,9013 -5584,1472 5606,-1386 z"
+   class="fil2" />
+    <path
+   id="12"
+   style="fill:#f1f2f2"
+   d="m 16125,8944 -5565,1541 5588,-1455 z"
+   class="fil2" />
+    <path
+   id="13"
+   style="fill:#f1f2f2"
+   d="m 16106,8876 -5546,1609 5570,-1524 z"
+   class="fil2" />
+    <path
+   id="14"
+   style="fill:#f1f2f2"
+   d="m 16085,8807 -5525,1678 5550,-1592 z"
+   class="fil2" />
+    <path
+   id="15"
+   style="fill:#f1f2f2"
+   d="m 16064,8739 -5504,1746 5530,-1661 z"
+   class="fil2" />
+    <path
+   id="16"
+   style="fill:#f1f2f2"
+   d="m 16042,8672 -5482,1813 5510,-1729 z"
+   class="fil2" />
+    <path
+   id="17"
+   style="fill:#f1f2f2"
+   d="m 16020,8604 -5460,1881 5488,-1796 z"
+   class="fil2" />
+    <path
+   id="18"
+   style="fill:#f1f2f2"
+   d="m 15996,8537 -5436,1948 5465,-1864 z"
+   class="fil2" />
+    <path
+   id="19"
+   style="fill:#f1f2f2"
+   d="m 15972,8470 -5412,2015 5442,-1931 z"
+   class="fil2" />
+    <path
+   id="20"
+   style="fill:#f1f2f2"
+   d="m 15946,8404 -5386,2081 5418,-1998 z"
+   class="fil2" />
+    <path
+   id="21"
+   style="fill:#f1f2f2"
+   d="m 15920,8338 -5360,2147 5393,-2065 z"
+   class="fil2" />
+    <path
+   id="22"
+   style="fill:#f1f2f2"
+   d="m 15894,8272 -5334,2213 5367,-2131 z"
+   class="fil2" />
+    <path
+   id="23"
+   style="fill:#f1f2f2"
+   d="m 15866,8206 -5306,2279 5340,-2197 z"
+   class="fil2" />
+    <path
+   id="24"
+   style="fill:#f1f2f2"
+   d="m 15837,8141 -5277,2344 5313,-2262 z"
+   class="fil2" />
+    <path
+   id="25"
+   style="fill:#f1f2f2"
+   d="m 15808,8076 -5248,2409 5285,-2328 z"
+   class="fil2" />
+    <path
+   id="26"
+   style="fill:#f1f2f2"
+   d="m 15778,8012 -5218,2473 5255,-2393 z"
+   class="fil2" />
+    <path
+   id="27"
+   style="fill:#f1f2f2"
+   d="m 15747,7948 -5187,2537 5226,-2457 z"
+   class="fil2" />
+    <path
+   id="28"
+   style="fill:#f1f2f2"
+   d="m 15716,7884 -5156,2601 5195,-2521 z"
+   class="fil2" />
+    <path
+   id="29"
+   style="fill:#f2f3f3"
+   d="m 15683,7821 -5123,2664 5163,-2585 z"
+   class="fil3" />
+    <path
+   id="30"
+   style="fill:#f2f3f3"
+   d="m 15650,7758 -5090,2727 5131,-2649 z"
+   class="fil3" />
+    <path
+   id="31"
+   style="fill:#f2f3f3"
+   d="m 15616,7695 -5056,2790 5098,-2712 z"
+   class="fil3" />
+    <path
+   id="32"
+   style="fill:#f2f3f3"
+   d="m 15581,7633 -5021,2852 5064,-2774 z"
+   class="fil3" />
+    <path
+   id="33"
+   style="fill:#f2f3f3"
+   d="m 15546,7571 -4986,2914 5030,-2836 z"
+   class="fil3" />
+    <path
+   id="34"
+   style="fill:#f2f3f3"
+   d="m 15509,7510 -4949,2975 4995,-2898 z"
+   class="fil3" />
+    <path
+   id="35"
+   style="fill:#f2f3f3"
+   d="m 15472,7449 -4912,3036 4958,-2960 z"
+   class="fil3" />
+    <path
+   id="36"
+   style="fill:#f2f3f3"
+   d="m 15435,7389 -4875,3096 4922,-3020 z"
+   class="fil3" />
+    <path
+   id="37"
+   style="fill:#f2f3f3"
+   d="m 15396,7329 -4836,3156 4884,-3081 z"
+   class="fil3" />
+    <path
+   id="38"
+   style="fill:#f2f3f3"
+   d="m 15357,7270 -4797,3215 4846,-3141 z"
+   class="fil3" />
+    <path
+   id="39"
+   style="fill:#f2f3f3"
+   d="m 15317,7211 -4757,3274 4807,-3200 z"
+   class="fil3" />
+    <path
+   id="40"
+   style="fill:#f2f3f3"
+   d="m 15276,7153 -4716,3332 4767,-3259 z"
+   class="fil3" />
+    <path
+   id="41"
+   style="fill:#f2f3f3"
+   d="m 15235,7095 -4675,3390 4726,-3318 z"
+   class="fil3" />
+    <path
+   id="42"
+   style="fill:#f2f3f3"
+   d="m 15193,7038 -4633,3447 4685,-3376 z"
+   class="fil3" />
+    <path
+   id="43"
+   style="fill:#f2f3f3"
+   d="m 15150,6981 -4590,3504 4643,-3433 z"
+   class="fil3" />
+    <path
+   id="44"
+   style="fill:#f2f3f3"
+   d="m 15106,6924 -4546,3561 4601,-3490 z"
+   class="fil3" />
+    <path
+   id="45"
+   style="fill:#f2f3f3"
+   d="m 15062,6869 -4502,3616 4557,-3546 z"
+   class="fil3" />
+    <path
+   id="46"
+   style="fill:#f2f3f3"
+   d="m 15017,6813 -4457,3672 4513,-3602 z"
+   class="fil3" />
+    <path
+   id="47"
+   style="fill:#f2f3f3"
+   d="m 14972,6759 -4412,3726 4469,-3658 z"
+   class="fil3" />
+    <path
+   id="48"
+   style="fill:#f2f3f3"
+   d="m 14926,6705 -4366,3780 4423,-3712 z"
+   class="fil3" />
+    <path
+   id="49"
+   style="fill:#f3f3f4"
+   d="m 14879,6651 -4319,3834 4377,-3767 z"
+   class="fil4" />
+    <path
+   id="50"
+   style="fill:#f3f3f4"
+   d="m 14831,6598 -4271,3887 4330,-3820 z"
+   class="fil4" />
+    <path
+   id="51"
+   style="fill:#f3f3f4"
+   d="m 14783,6546 -4223,3939 4283,-3873 z"
+   class="fil4" />
+    <path
+   id="52"
+   style="fill:#f3f3f4"
+   d="m 14734,6494 -4174,3991 4235,-3926 z"
+   class="fil4" />
+    <path
+   id="53"
+   style="fill:#f3f3f4"
+   d="m 14685,6443 -4125,4042 4186,-3978 z"
+   class="fil4" />
+    <path
+   id="54"
+   style="fill:#f3f3f4"
+   d="m 14634,6393 -4074,4092 4137,-4029 z"
+   class="fil4" />
+    <path
+   id="55"
+   style="fill:#f3f3f4"
+   d="m 14584,6343 -4024,4142 4087,-4080 z"
+   class="fil4" />
+    <path
+   id="56"
+   style="fill:#f3f3f4"
+   d="m 14532,6294 -3972,4191 4036,-4130 z"
+   class="fil4" />
+    <path
+   id="57"
+   style="fill:#f3f3f4"
+   d="m 14480,6245 -3920,4240 3985,-4179 z"
+   class="fil4" />
+    <path
+   id="58"
+   style="fill:#f3f3f4"
+   d="m 14428,6197 -3868,4288 3933,-4228 z"
+   class="fil4" />
+    <path
+   id="59"
+   style="fill:#f3f3f4"
+   d="m 14375,6150 -3815,4335 3881,-4276 z"
+   class="fil4" />
+    <path
+   id="60"
+   style="fill:#f3f3f4"
+   d="m 14321,6103 -3761,4382 3828,-4324 z"
+   class="fil4" />
+    <path
+   id="61"
+   style="fill:#f3f3f4"
+   d="m 14267,6057 -3707,4428 3775,-4370 z"
+   class="fil4" />
+    <path
+   id="62"
+   style="fill:#f3f3f4"
+   d="m 14212,6012 -3652,4473 3720,-4417 z"
+   class="fil4" />
+    <path
+   id="63"
+   style="fill:#f3f3f4"
+   d="m 14157,5967 -3597,4518 3666,-4462 z"
+   class="fil4" />
+    <path
+   id="64"
+   style="fill:#f3f3f4"
+   d="m 14101,5923 -3541,4562 3610,-4507 z"
+   class="fil4" />
+    <path
+   id="65"
+   style="fill:#f3f3f4"
+   d="m 14044,5880 -3484,4605 3555,-4551 z"
+   class="fil4" />
+    <path
+   id="66"
+   style="fill:#f3f3f4"
+   d="m 13987,5837 -3427,4648 3498,-4594 z"
+   class="fil4" />
+    <path
+   id="67"
+   style="fill:#f3f3f4"
+   d="m 13930,5795 -3370,4690 3441,-4637 z"
+   class="fil4" />
+    <path
+   id="68"
+   style="fill:#f4f4f5"
+   d="m 13872,5754 -3312,4731 3384,-4679 z"
+   class="fil5" />
+    <path
+   id="69"
+   style="fill:#f4f4f5"
+   d="m 13813,5714 -3253,4771 3326,-4721 z"
+   class="fil5" />
+    <path
+   id="70"
+   style="fill:#f4f4f5"
+   d="m 13754,5674 -3194,4811 3268,-4761 z"
+   class="fil5" />
+    <path
+   id="71"
+   style="fill:#f4f4f5"
+   d="m 13695,5635 -3135,4850 3209,-4801 z"
+   class="fil5" />
+    <path
+   id="72"
+   style="fill:#f4f4f5"
+   d="m 13635,5597 -3075,4888 3150,-4840 z"
+   class="fil5" />
+    <path
+   id="73"
+   style="fill:#f4f4f5"
+   d="m 13574,5559 -3014,4926 3090,-4879 z"
+   class="fil5" />
+    <path
+   id="74"
+   style="fill:#f4f4f5"
+   d="m 13513,5522 -2953,4963 3029,-4916 z"
+   class="fil5" />
+    <path
+   id="75"
+   style="fill:#f4f4f5"
+   d="m 13452,5486 -2892,4999 2969,-4953 z"
+   class="fil5" />
+    <path
+   id="76"
+   style="fill:#f4f4f5"
+   d="m 13390,5451 -2830,5034 2907,-4990 z"
+   class="fil5" />
+    <path
+   id="77"
+   style="fill:#f4f4f5"
+   d="m 13328,5417 -2768,5068 2846,-5025 z"
+   class="fil5" />
+    <path
+   id="78"
+   style="fill:#f4f4f5"
+   d="m 13265,5383 -2705,5102 2783,-5060 z"
+   class="fil5" />
+    <path
+   id="79"
+   style="fill:#f4f4f5"
+   d="m 13202,5350 -2642,5135 2721,-5094 z"
+   class="fil5" />
+    <path
+   id="80"
+   style="fill:#f4f4f5"
+   d="m 13139,5318 -2579,5167 2658,-5127 z"
+   class="fil5" />
+    <path
+   id="81"
+   style="fill:#f4f4f5"
+   d="m 13075,5286 -2515,5199 2595,-5159 z"
+   class="fil5" />
+    <path
+   id="82"
+   style="fill:#f4f4f5"
+   d="m 13011,5256 -2451,5229 2531,-5191 z"
+   class="fil5" />
+    <path
+   id="83"
+   style="fill:#f4f4f5"
+   d="m 12946,5226 -2386,5259 2467,-5222 z"
+   class="fil5" />
+    <path
+   id="84"
+   style="fill:#f4f4f5"
+   d="m 12881,5197 -2321,5288 2402,-5252 z"
+   class="fil5" />
+    <path
+   id="85"
+   style="fill:#f4f4f5"
+   d="m 12816,5169 -2256,5316 2337,-5281 z"
+   class="fil5" />
+    <path
+   id="86"
+   style="fill:#f4f4f5"
+   d="m 12750,5141 -2190,5344 2272,-5309 z"
+   class="fil5" />
+    <path
+   id="87"
+   style="fill:#f4f4f5"
+   d="m 12684,5115 -2124,5370 2207,-5337 z"
+   class="fil5" />
+    <path
+   id="88"
+   style="fill:#f5f5f5"
+   d="m 12618,5089 -2058,5396 2141,-5363 z"
+   class="fil6" />
+    <path
+   id="89"
+   style="fill:#f5f5f5"
+   d="m 12551,5064 -1991,5421 2074,-5389 z"
+   class="fil6" />
+    <path
+   id="90"
+   style="fill:#f5f5f5"
+   d="m 12484,5040 -1924,5445 2008,-5415 z"
+   class="fil6" />
+    <path
+   id="91"
+   style="fill:#f5f5f5"
+   d="m 12417,5017 -1857,5468 1941,-5439 z"
+   class="fil6" />
+    <path
+   id="92"
+   style="fill:#f5f5f5"
+   d="m 12350,4994 -1790,5491 1874,-5462 z"
+   class="fil6" />
+    <path
+   id="93"
+   style="fill:#f5f5f5"
+   d="m 12282,4973 -1722,5512 1806,-5485 z"
+   class="fil6" />
+    <path
+   id="94"
+   style="fill:#f5f5f5"
+   d="m 12214,4952 -1654,5533 1739,-5507 z"
+   class="fil6" />
+    <path
+   id="95"
+   style="fill:#f5f5f5"
+   d="m 12145,4932 -1585,5553 1671,-5528 z"
+   class="fil6" />
+    <path
+   id="96"
+   style="fill:#f5f5f5"
+   d="m 12077,4913 -1517,5572 1603,-5548 z"
+   class="fil6" />
+    <path
+   id="97"
+   style="fill:#f5f5f5"
+   d="m 12008,4894 -1448,5591 1534,-5567 z"
+   class="fil6" />
+    <path
+   id="98"
+   style="fill:#f5f5f5"
+   d="m 11939,4877 -1379,5608 1465,-5586 z"
+   class="fil6" />
+    <path
+   id="99"
+   style="fill:#f5f5f5"
+   d="m 11870,4860 -1310,5625 1396,-5604 z"
+   class="fil6" />
+    <path
+   id="100"
+   style="fill:#f5f5f5"
+   d="m 11801,4845 -1241,5640 1327,-5620 z"
+   class="fil6" />
+    <path
+   id="101"
+   style="fill:#f5f5f5"
+   d="m 11731,4830 -1171,5655 1258,-5636 z"
+   class="fil6" />
+    <path
+   id="102"
+   style="fill:#f5f5f5"
+   d="m 11661,4816 -1101,5669 1188,-5651 z"
+   class="fil6" />
+    <path
+   id="103"
+   style="fill:#f5f5f5"
+   d="m 11591,4803 -1031,5682 1119,-5666 z"
+   class="fil6" />
+    <path
+   id="104"
+   style="fill:#f5f5f5"
+   d="m 11521,4790 -961,5695 1049,-5679 z"
+   class="fil6" />
+    <path
+   id="105"
+   style="fill:#f5f5f5"
+   d="m 11451,4779 -891,5706 979,-5691 z"
+   class="fil6" />
+    <path
+   id="106"
+   style="fill:#f5f5f5"
+   d="m 11381,4768 -821,5717 909,-5703 z"
+   class="fil6" />
+    <path
+   id="107"
+   style="fill:#f6f6f6"
+   d="m 11310,4759 -750,5726 838,-5714 z"
+   class="fil7" />
+    <path
+   id="108"
+   style="fill:#f6f6f6"
+   d="m 11240,4750 -680,5735 768,-5724 z"
+   class="fil7" />
+    <path
+   id="109"
+   style="fill:#f6f6f6"
+   d="m 11169,4742 -609,5743 697,-5733 z"
+   class="fil7" />
+    <path
+   id="110"
+   style="fill:#f6f6f6"
+   d="m 11098,4735 -538,5750 627,-5741 z"
+   class="fil7" />
+    <path
+   id="111"
+   style="fill:#f6f6f6"
+   d="m 11027,4729 -467,5756 556,-5748 z"
+   class="fil7" />
+    <path
+   id="112"
+   style="fill:#f6f6f6"
+   d="m 10956,4723 -396,5762 485,-5755 z"
+   class="fil7" />
+    <path
+   id="113"
+   style="fill:#f6f6f6"
+   d="m 10885,4719 -325,5766 414,-5760 z"
+   class="fil7" />
+    <path
+   id="114"
+   style="fill:#f6f6f6"
+   d="m 10814,4715 -254,5770 343,-5765 z"
+   class="fil7" />
+    <path
+   id="115"
+   style="fill:#f6f6f6"
+   d="m 10743,4713 -183,5772 272,-5769 z"
+   class="fil7" />
+    <path
+   id="116"
+   style="fill:#f6f6f6"
+   d="m 10672,4711 -112,5774 201,-5772 z"
+   class="fil7" />
+    <path
+   id="117"
+   style="fill:#f6f6f6"
+   d="m 10601,4710 -41,5775 130,-5774 z"
+   class="fil7" />
+    <path
+   id="118"
+   style="fill:#f6f6f6"
+   d="m 10530,4710 30,5775 59,-5775 z"
+   class="fil7" />
+    <path
+   id="119"
+   style="fill:#f6f6f6"
+   d="m 10459,4711 101,5774 -12,-5775 z"
+   class="fil7" />
+    <path
+   id="120"
+   style="fill:#f6f6f6"
+   d="m 10388,4712 172,5773 -84,-5774 z"
+   class="fil7" />
+    <path
+   id="121"
+   style="fill:#f6f6f6"
+   d="m 10316,4715 244,5770 -155,-5773 z"
+   class="fil7" />
+    <path
+   id="122"
+   style="fill:#f6f6f6"
+   d="m 10245,4718 315,5767 -226,-5771 z"
+   class="fil7" />
+    <path
+   id="123"
+   style="fill:#f6f6f6"
+   d="m 10174,4723 386,5762 -297,-5767 z"
+   class="fil7" />
+    <path
+   id="124"
+   style="fill:#f6f6f6"
+   d="m 10103,4728 457,5757 -368,-5763 z"
+   class="fil7" />
+    <path
+   id="125"
+   style="fill:#f6f6f6"
+   d="m 10033,4734 527,5751 -439,-5758 z"
+   class="fil7" />
+    <path
+   id="126"
+   style="fill:#f6f6f6"
+   d="m 9962,4741 598,5744 -510,-5753 z"
+   class="fil7" />
+    <path
+   id="127"
+   style="fill:#f7f7f7"
+   d="m 9891,4749 669,5736 -581,-5746 z"
+   class="fil8" />
+    <path
+   id="128"
+   style="fill:#f7f7f7"
+   d="m 9820,4757 740,5728 -651,-5738 z"
+   class="fil8" />
+    <path
+   id="129"
+   style="fill:#f7f7f7"
+   d="m 9750,4767 810,5718 -722,-5730 z"
+   class="fil8" />
+    <path
+   id="130"
+   style="fill:#f7f7f7"
+   d="m 9680,4777 880,5708 -792,-5720 z"
+   class="fil8" />
+    <path
+   id="131"
+   style="fill:#f7f7f7"
+   d="m 9609,4789 951,5696 -863,-5710 z"
+   class="fil8" />
+    <path
+   id="132"
+   style="fill:#f7f7f7"
+   d="m 9539,4801 1021,5684 -933,-5699 z"
+   class="fil8" />
+    <path
+   id="133"
+   style="fill:#f7f7f7"
+   d="M 9469,4814 10560,10485 9557,4798 Z"
+   class="fil8" />
+    <path
+   id="134"
+   style="fill:#f7f7f7"
+   d="M 9399,4828 10560,10485 9487,4811 Z"
+   class="fil8" />
+    <path
+   id="135"
+   style="fill:#f7f7f7"
+   d="M 9330,4842 10560,10485 9417,4824 Z"
+   class="fil8" />
+    <path
+   id="136"
+   style="fill:#f7f7f7"
+   d="M 9260,4858 10560,10485 9347,4839 Z"
+   class="fil8" />
+    <path
+   id="137"
+   style="fill:#f7f7f7"
+   d="M 9191,4874 10560,10485 9278,4854 Z"
+   class="fil8" />
+    <path
+   id="138"
+   style="fill:#f7f7f7"
+   d="M 9122,4892 10560,10485 9209,4870 Z"
+   class="fil8" />
+    <path
+   id="139"
+   style="fill:#f7f7f7"
+   d="M 9053,4910 10560,10485 9139,4887 Z"
+   class="fil8" />
+    <path
+   id="140"
+   style="fill:#f7f7f7"
+   d="M 8985,4929 10560,10485 9071,4905 Z"
+   class="fil8" />
+    <path
+   id="141"
+   style="fill:#f7f7f7"
+   d="M 8916,4949 10560,10485 9002,4924 Z"
+   class="fil8" />
+    <path
+   id="142"
+   style="fill:#f7f7f7"
+   d="M 8848,4969 10560,10485 8934,4944 Z"
+   class="fil8" />
+    <path
+   id="143"
+   style="fill:#f7f7f7"
+   d="M 8781,4991 10560,10485 8865,4964 Z"
+   class="fil8" />
+    <path
+   id="144"
+   style="fill:#f7f7f7"
+   d="M 8713,5013 10560,10485 8798,4985 Z"
+   class="fil8" />
+    <path
+   id="145"
+   style="fill:#f7f7f7"
+   d="M 8646,5036 10560,10485 8730,5007 Z"
+   class="fil8" />
+    <path
+   id="146"
+   style="fill:#f7f7f7"
+   d="M 8579,5060 10560,10485 8663,5030 Z"
+   class="fil8" />
+    <path
+   id="147"
+   style="fill:#f8f8f8"
+   d="M 8512,5085 10560,10485 8596,5054 Z"
+   class="fil9" />
+    <path
+   id="148"
+   style="fill:#f8f8f8"
+   d="M 8446,5111 10560,10485 8529,5079 Z"
+   class="fil9" />
+    <path
+   id="149"
+   style="fill:#f8f8f8"
+   d="M 8380,5137 10560,10485 8462,5104 Z"
+   class="fil9" />
+    <path
+   id="150"
+   style="fill:#f8f8f8"
+   d="M 8314,5164 10560,10485 8396,5131 Z"
+   class="fil9" />
+    <path
+   id="151"
+   style="fill:#f8f8f8"
+   d="M 8249,5192 10560,10485 8330,5158 Z"
+   class="fil9" />
+    <path
+   id="152"
+   style="fill:#f8f8f8"
+   d="M 8184,5221 10560,10485 8265,5185 Z"
+   class="fil9" />
+    <path
+   id="153"
+   style="fill:#f8f8f8"
+   d="M 8119,5251 10560,10485 8200,5214 Z"
+   class="fil9" />
+    <path
+   id="154"
+   style="fill:#f8f8f8"
+   d="M 8055,5281 10560,10485 8135,5244 Z"
+   class="fil9" />
+    <path
+   id="155"
+   style="fill:#f8f8f8"
+   d="M 7991,5313 10560,10485 8071,5274 Z"
+   class="fil9" />
+    <path
+   id="156"
+   style="fill:#f8f8f8"
+   d="M 7927,5345 10560,10485 8007,5305 Z"
+   class="fil9" />
+    <path
+   id="157"
+   style="fill:#f8f8f8"
+   d="M 7864,5378 10560,10485 7943,5337 Z"
+   class="fil9" />
+    <path
+   id="158"
+   style="fill:#f8f8f8"
+   d="M 7801,5411 10560,10485 7880,5369 Z"
+   class="fil9" />
+    <path
+   id="159"
+   style="fill:#f8f8f8"
+   d="M 7739,5445 10560,10485 7817,5403 Z"
+   class="fil9" />
+    <path
+   id="160"
+   style="fill:#f8f8f8"
+   d="M 7677,5481 10560,10485 7755,5437 Z"
+   class="fil9" />
+    <path
+   id="161"
+   style="fill:#f8f8f8"
+   d="M 7616,5517 10560,10485 7693,5472 Z"
+   class="fil9" />
+    <path
+   id="162"
+   style="fill:#f8f8f8"
+   d="M 7555,5553 10560,10485 7631,5508 Z"
+   class="fil9" />
+    <path
+   id="163"
+   style="fill:#f8f8f8"
+   d="M 7494,5591 10560,10485 7570,5544 Z"
+   class="fil9" />
+    <path
+   id="164"
+   style="fill:#f8f8f8"
+   d="M 7434,5629 10560,10485 7509,5581 Z"
+   class="fil9" />
+    <path
+   id="165"
+   style="fill:#f8f8f8"
+   d="M 7375,5668 10560,10485 7449,5619 Z"
+   class="fil9" />
+    <path
+   id="166"
+   style="fill:#f9f9f9"
+   d="M 7316,5707 10560,10485 7390,5658 Z"
+   class="fil10" />
+    <path
+   id="167"
+   style="fill:#f9f9f9"
+   d="M 7257,5747 10560,10485 7330,5697 Z"
+   class="fil10" />
+    <path
+   id="168"
+   style="fill:#f9f9f9"
+   d="M 7199,5789 10560,10485 7272,5737 Z"
+   class="fil10" />
+    <path
+   id="169"
+   style="fill:#f9f9f9"
+   d="M 7141,5830 10560,10485 7213,5778 Z"
+   class="fil10" />
+    <path
+   id="170"
+   style="fill:#f9f9f9"
+   d="M 7084,5873 10560,10485 7156,5820 Z"
+   class="fil10" />
+    <path
+   id="171"
+   style="fill:#f9f9f9"
+   d="M 7028,5916 10560,10485 7098,5862 Z"
+   class="fil10" />
+    <path
+   id="172"
+   style="fill:#f9f9f9"
+   d="M 6972,5960 10560,10485 7042,5905 Z"
+   class="fil10" />
+    <path
+   id="173"
+   style="fill:#f9f9f9"
+   d="M 6916,6004 10560,10485 6986,5949 Z"
+   class="fil10" />
+    <path
+   id="174"
+   style="fill:#f9f9f9"
+   d="M 6861,6050 10560,10485 6930,5993 Z"
+   class="fil10" />
+    <path
+   id="175"
+   style="fill:#f9f9f9"
+   d="M 6807,6095 10560,10485 6875,6038 Z"
+   class="fil10" />
+    <path
+   id="176"
+   style="fill:#f9f9f9"
+   d="M 6753,6142 10560,10485 6820,6084 Z"
+   class="fil10" />
+    <path
+   id="177"
+   style="fill:#f9f9f9"
+   d="M 6700,6189 10560,10485 6767,6130 Z"
+   class="fil10" />
+    <path
+   id="178"
+   style="fill:#f9f9f9"
+   d="M 6647,6237 10560,10485 6713,6177 Z"
+   class="fil10" />
+    <path
+   id="179"
+   style="fill:#f9f9f9"
+   d="M 6595,6286 10560,10485 6660,6225 Z"
+   class="fil10" />
+    <path
+   id="180"
+   style="fill:#f9f9f9"
+   d="M 6544,6335 10560,10485 6608,6274 Z"
+   class="fil10" />
+    <path
+   id="181"
+   style="fill:#f9f9f9"
+   d="M 6493,6385 10560,10485 6557,6323 Z"
+   class="fil10" />
+    <path
+   id="182"
+   style="fill:#f9f9f9"
+   d="M 6443,6435 10560,10485 6506,6372 Z"
+   class="fil10" />
+    <path
+   id="183"
+   style="fill:#f9f9f9"
+   d="M 6393,6486 10560,10485 6455,6422 Z"
+   class="fil10" />
+    <path
+   id="184"
+   style="fill:#f9f9f9"
+   d="M 6344,6538 10560,10485 6406,6473 Z"
+   class="fil10" />
+    <path
+   id="185"
+   style="fill:#f9f9f9"
+   d="M 6296,6590 10560,10485 6356,6525 Z"
+   class="fil10" />
+    <path
+   id="186"
+   style="fill:#fafafa"
+   d="M 6248,6643 10560,10485 6308,6577 Z"
+   class="fil11" />
+    <path
+   id="187"
+   style="fill:#fafafa"
+   d="M 6201,6696 10560,10485 6260,6630 Z"
+   class="fil11" />
+    <path
+   id="188"
+   style="fill:#fafafa"
+   d="M 6155,6750 10560,10485 6213,6683 Z"
+   class="fil11" />
+    <path
+   id="189"
+   style="fill:#fafafa"
+   d="M 6109,6805 10560,10485 6167,6737 Z"
+   class="fil11" />
+    <path
+   id="190"
+   style="fill:#fafafa"
+   d="M 6064,6860 10560,10485 6121,6791 Z"
+   class="fil11" />
+    <path
+   id="191"
+   style="fill:#fafafa"
+   d="M 6020,6915 10560,10485 6076,6846 Z"
+   class="fil11" />
+    <path
+   id="192"
+   style="fill:#fafafa"
+   d="M 5976,6972 10560,10485 6031,6902 Z"
+   class="fil11" />
+    <path
+   id="193"
+   style="fill:#fafafa"
+   d="M 5933,7028 10560,10485 5987,6958 Z"
+   class="fil11" />
+    <path
+   id="194"
+   style="fill:#fafafa"
+   d="M 5891,7086 10560,10485 5944,7014 Z"
+   class="fil11" />
+    <path
+   id="195"
+   style="fill:#fafafa"
+   d="M 5850,7143 10560,10485 5902,7071 Z"
+   class="fil11" />
+    <path
+   id="196"
+   style="fill:#fafafa"
+   d="M 5809,7202 10560,10485 5860,7129 Z"
+   class="fil11" />
+    <path
+   id="197"
+   style="fill:#fafafa"
+   d="M 5769,7260 10560,10485 5819,7187 Z"
+   class="fil11" />
+    <path
+   id="198"
+   style="fill:#fafafa"
+   d="M 5729,7320 10560,10485 5779,7246 Z"
+   class="fil11" />
+    <path
+   id="199"
+   style="fill:#fafafa"
+   d="M 5691,7379 10560,10485 5739,7305 Z"
+   class="fil11" />
+    <path
+   id="200"
+   style="fill:#fafafa"
+   d="M 5653,7440 10560,10485 5700,7365 Z"
+   class="fil11" />
+    <path
+   id="201"
+   style="fill:#fafafa"
+   d="M 5616,7500 10560,10485 5662,7425 Z"
+   class="fil11" />
+    <path
+   id="202"
+   style="fill:#fafafa"
+   d="M 5579,7561 10560,10485 5625,7485 Z"
+   class="fil11" />
+    <path
+   id="203"
+   style="fill:#fafafa"
+   d="M 5544,7623 10560,10485 5588,7546 Z"
+   class="fil11" />
+    <path
+   id="204"
+   style="fill:#fafafa"
+   d="M 5509,7685 10560,10485 5553,7608 Z"
+   class="fil11" />
+    <path
+   id="205"
+   style="fill:#fbfbfb"
+   d="M 5475,7748 10560,10485 5518,7670 Z"
+   class="fil12" />
+    <path
+   id="206"
+   style="fill:#fbfbfb"
+   d="M 5441,7810 10560,10485 5483,7732 Z"
+   class="fil12" />
+    <path
+   id="207"
+   style="fill:#fbfbfb"
+   d="M 5409,7874 10560,10485 5450,7795 Z"
+   class="fil12" />
+    <path
+   id="208"
+   style="fill:#fbfbfb"
+   d="M 5377,7937 10560,10485 5417,7858 Z"
+   class="fil12" />
+    <path
+   id="209"
+   style="fill:#fbfbfb"
+   d="M 5346,8001 10560,10485 5385,7921 Z"
+   class="fil12" />
+    <path
+   id="210"
+   style="fill:#fbfbfb"
+   d="M 5316,8066 10560,10485 5354,7985 Z"
+   class="fil12" />
+    <path
+   id="211"
+   style="fill:#fbfbfb"
+   d="M 5286,8131 10560,10485 5323,8050 Z"
+   class="fil12" />
+    <path
+   id="212"
+   style="fill:#fbfbfb"
+   d="M 5258,8196 10560,10485 5294,8114 Z"
+   class="fil12" />
+    <path
+   id="213"
+   style="fill:#fbfbfb"
+   d="M 5230,8261 10560,10485 5265,8179 Z"
+   class="fil12" />
+    <path
+   id="214"
+   style="fill:#fbfbfb"
+   d="M 5203,8327 10560,10485 5237,8245 Z"
+   class="fil12" />
+    <path
+   id="215"
+   style="fill:#fbfbfb"
+   d="M 5177,8393 10560,10485 5210,8311 Z"
+   class="fil12" />
+    <path
+   id="216"
+   style="fill:#fbfbfb"
+   d="M 5152,8460 10560,10485 5184,8377 Z"
+   class="fil12" />
+    <path
+   id="217"
+   style="fill:#fbfbfb"
+   d="M 5127,8526 10560,10485 5158,8443 Z"
+   class="fil12" />
+    <path
+   id="218"
+   style="fill:#fbfbfb"
+   d="M 5103,8593 10560,10485 5133,8510 Z"
+   class="fil12" />
+    <path
+   id="219"
+   style="fill:#fbfbfb"
+   d="M 5080,8661 10560,10485 5109,8577 Z"
+   class="fil12" />
+    <path
+   id="220"
+   style="fill:#fbfbfb"
+   d="M 5058,8728 10560,10485 5086,8644 Z"
+   class="fil12" />
+    <path
+   id="221"
+   style="fill:#fbfbfb"
+   d="M 5037,8796 10560,10485 5064,8712 Z"
+   class="fil12" />
+    <path
+   id="222"
+   style="fill:#fbfbfb"
+   d="M 5017,8865 10560,10485 5043,8779 Z"
+   class="fil12" />
+    <path
+   id="223"
+   style="fill:#fbfbfb"
+   d="M 4997,8933 10560,10485 5022,8848 Z"
+   class="fil12" />
+    <path
+   id="224"
+   style="fill:#fbfbfb"
+   d="M 4979,9002 10560,10485 5002,8916 Z"
+   class="fil12" />
+    <path
+   id="225"
+   style="fill:#fdfdfd"
+   d="M 4961,9070 10560,10485 4983,8984 Z"
+   class="fil13" />
+    <path
+   id="226"
+   style="fill:#fdfdfd"
+   d="M 4944,9140 10560,10485 4965,9053 Z"
+   class="fil13" />
+    <path
+   id="227"
+   style="fill:#fdfdfd"
+   d="M 4928,9209 10560,10485 4948,9122 Z"
+   class="fil13" />
+    <path
+   id="228"
+   style="fill:#fdfdfd"
+   d="M 4912,9278 10560,10485 4932,9192 Z"
+   class="fil13" />
+    <path
+   id="229"
+   style="fill:#fdfdfd"
+   d="M 4898,9348 10560,10485 4916,9261 Z"
+   class="fil13" />
+    <path
+   id="230"
+   style="fill:#fdfdfd"
+   d="M 4884,9418 10560,10485 4902,9331 Z"
+   class="fil13" />
+    <path
+   id="231"
+   style="fill:#fdfdfd"
+   d="m 4872,9488 5688,997 -5672,-1085 z"
+   class="fil13" />
+    <path
+   id="232"
+   style="fill:#fdfdfd"
+   d="m 4860,9558 5700,927 -5685,-1015 z"
+   class="fil13" />
+    <path
+   id="233"
+   style="fill:#fdfdfd"
+   d="m 4849,9628 5711,857 -5697,-945 z"
+   class="fil13" />
+    <path
+   id="234"
+   style="fill:#fdfdfd"
+   d="m 4839,9699 5721,786 -5708,-874 z"
+   class="fil13" />
+    <path
+   id="235"
+   style="fill:#fdfdfd"
+   d="m 4829,9769 5731,716 -5719,-804 z"
+   class="fil13" />
+    <path
+   id="236"
+   style="fill:#fdfdfd"
+   d="m 4821,9840 5739,645 -5728,-733 z"
+   class="fil13" />
+    <path
+   id="237"
+   style="fill:#fdfdfd"
+   d="m 4813,9911 5747,574 -5737,-663 z"
+   class="fil13" />
+    <path
+   id="238"
+   style="fill:#fdfdfd"
+   d="m 4807,9981 5753,504 -5745,-592 z"
+   class="fil13" />
+    <path
+   id="239"
+   style="fill:#fdfdfd"
+   d="m 4801,10052 5759,433 -5751,-521 z"
+   class="fil13" />
+    <path
+   id="240"
+   style="fill:#fdfdfd"
+   d="m 4796,10123 5764,362 -5757,-450 z"
+   class="fil13" />
+    <path
+   id="241"
+   style="fill:#fdfdfd"
+   d="m 4792,10194 5768,291 -5763,-379 z"
+   class="fil13" />
+    <path
+   id="242"
+   style="fill:#fdfdfd"
+   d="m 4789,10265 5771,220 -5767,-308 z"
+   class="fil13" />
+    <path
+   id="243"
+   style="fill:#fdfdfd"
+   d="m 4787,10337 5773,148 -5770,-237 z"
+   class="fil13" />
+    <path
+   id="244"
+   style="fill:#fdfdfd"
+   d="m 4785,10408 5775,77 -5773,-166 z"
+   class="fil13" />
+    <path
+   id="245"
+   style="fill:#fefefe"
+   d="m 4785,10479 5775,6 -5774,-95 z"
+   class="fil14" />
+    <path
+   id="246"
+   style="fill:#fefefe"
+   d="m 4785,10550 5775,-65 -5775,-24 z"
+   class="fil14" />
+    <path
+   id="247"
+   style="fill:#fefefe"
+   d="m 4787,10621 5773,-136 -5775,47 z"
+   class="fil14" />
+    <path
+   id="248"
+   style="fill:#fefefe"
+   d="m 4789,10692 5771,-207 -5774,118 z"
+   class="fil14" />
+    <path
+   id="249"
+   style="fill:#fefefe"
+   d="m 4792,10763 5768,-278 -5772,189 z"
+   class="fil14" />
+    <path
+   id="250"
+   style="fill:#fefefe"
+   d="m 4796,10834 5764,-349 -5769,261 z"
+   class="fil14" />
+    <path
+   id="251"
+   style="fill:#fefefe"
+   d="m 4800,10905 5760,-420 -5765,332 z"
+   class="fil14" />
+    <path
+   id="252"
+   style="fill:#fefefe"
+   d="m 4806,10976 5754,-491 -5761,403 z"
+   class="fil14" />
+    <path
+   id="253"
+   style="fill:#fefefe"
+   d="m 4812,11047 5748,-562 -5755,474 z"
+   class="fil14" />
+    <path
+   id="254"
+   style="fill:#fefefe"
+   d="m 4820,11118 5740,-633 -5749,544 z"
+   class="fil14" />
+    <path
+   id="255"
+   style="fill:#fefefe"
+   d="m 4828,11189 5732,-704 -5742,615 z"
+   class="fil14" />
+    <path
+   id="256"
+   style="fill:#fefefe"
+   d="m 4837,11259 5723,-774 -5734,686 z"
+   class="fil14" />
+    <path
+   id="257"
+   style="fill:#fefefe"
+   d="m 4847,11330 5713,-845 -5725,756 z"
+   class="fil14" />
+    <path
+   id="258"
+   style="fill:#fefefe"
+   d="m 4858,11400 5702,-915 -5715,827 z"
+   class="fil14" />
+    <path
+   id="259"
+   style="fill:#fefefe"
+   d="m 4870,11470 5690,-985 -5705,897 z"
+   class="fil14" />
+    <path
+   id="260"
+   style="fill:#fefefe"
+   d="m 4882,11540 5678,-1055 -5693,967 z"
+   class="fil14" />
+    <path
+   id="261"
+   style="fill:#fefefe"
+   d="m 4896,11610 5664,-1125 -5681,1038 z"
+   class="fil14" />
+    <path
+   id="262"
+   style="fill:#fefefe"
+   d="m 4910,11680 5650,-1195 -5668,1107 z"
+   class="fil14" />
+    <path
+   id="263"
+   style="fill:#fefefe"
+   d="m 4925,11749 5635,-1264 -5654,1177 z"
+   class="fil14" />
+    <path
+   id="264"
+   style="fill:#fdfdfd"
+   d="m 4941,11818 5619,-1333 -5639,1247 z"
+   class="fil13" />
+    <path
+   id="265"
+   style="fill:#fdfdfd"
+   d="m 4958,11888 5602,-1403 -5623,1316 z"
+   class="fil13" />
+    <path
+   id="266"
+   style="fill:#fdfdfd"
+   d="m 4976,11956 5584,-1471 -5606,1385 z"
+   class="fil13" />
+    <path
+   id="267"
+   style="fill:#fdfdfd"
+   d="m 4994,12025 5566,-1540 -5589,1454 z"
+   class="fil13" />
+    <path
+   id="268"
+   style="fill:#fdfdfd"
+   d="m 5014,12094 5546,-1609 -5570,1523 z"
+   class="fil13" />
+    <path
+   id="269"
+   style="fill:#fdfdfd"
+   d="m 5034,12162 5526,-1677 -5551,1591 z"
+   class="fil13" />
+    <path
+   id="270"
+   style="fill:#fdfdfd"
+   d="m 5055,12230 5505,-1745 -5531,1660 z"
+   class="fil13" />
+    <path
+   id="271"
+   style="fill:#fdfdfd"
+   d="m 5077,12297 5483,-1812 -5510,1728 z"
+   class="fil13" />
+    <path
+   id="272"
+   style="fill:#fdfdfd"
+   d="m 5100,12365 5460,-1880 -5489,1795 z"
+   class="fil13" />
+    <path
+   id="273"
+   style="fill:#fdfdfd"
+   d="m 5123,12432 5437,-1947 -5466,1863 z"
+   class="fil13" />
+    <path
+   id="274"
+   style="fill:#fdfdfd"
+   d="m 5148,12499 5412,-2014 -5443,1930 z"
+   class="fil13" />
+    <path
+   id="275"
+   style="fill:#fdfdfd"
+   d="m 5173,12565 5387,-2080 -5418,1997 z"
+   class="fil13" />
+    <path
+   id="276"
+   style="fill:#fdfdfd"
+   d="m 5199,12631 5361,-2146 -5393,2064 z"
+   class="fil13" />
+    <path
+   id="277"
+   style="fill:#fdfdfd"
+   d="m 5226,12697 5334,-2212 -5368,2130 z"
+   class="fil13" />
+    <path
+   id="278"
+   style="fill:#fdfdfd"
+   d="m 5253,12763 5307,-2278 -5341,2196 z"
+   class="fil13" />
+    <path
+   id="279"
+   style="fill:#fdfdfd"
+   d="m 5282,12828 5278,-2343 -5314,2262 z"
+   class="fil13" />
+    <path
+   id="280"
+   style="fill:#fdfdfd"
+   d="m 5311,12893 5249,-2408 -5285,2327 z"
+   class="fil13" />
+    <path
+   id="281"
+   style="fill:#fdfdfd"
+   d="m 5341,12957 5219,-2472 -5256,2392 z"
+   class="fil13" />
+    <path
+   id="282"
+   style="fill:#fdfdfd"
+   d="m 5372,13022 5188,-2537 -5226,2456 z"
+   class="fil13" />
+    <path
+   id="283"
+   style="fill:#fdfdfd"
+   d="m 5404,13085 5156,-2600 -5196,2520 z"
+   class="fil13" />
+    <path
+   id="284"
+   style="fill:#fbfbfb"
+   d="m 5436,13149 5124,-2664 -5164,2584 z"
+   class="fil12" />
+    <path
+   id="285"
+   style="fill:#fbfbfb"
+   d="m 5469,13212 5091,-2727 -5132,2648 z"
+   class="fil12" />
+    <path
+   id="286"
+   style="fill:#fbfbfb"
+   d="m 5503,13274 5057,-2789 -5099,2711 z"
+   class="fil12" />
+    <path
+   id="287"
+   style="fill:#fbfbfb"
+   d="m 5538,13336 5022,-2851 -5065,2773 z"
+   class="fil12" />
+    <path
+   id="288"
+   style="fill:#fbfbfb"
+   d="m 5574,13398 4986,-2913 -5031,2836 z"
+   class="fil12" />
+    <path
+   id="289"
+   style="fill:#fbfbfb"
+   d="m 5610,13459 4950,-2974 -4995,2897 z"
+   class="fil12" />
+    <path
+   id="290"
+   style="fill:#fbfbfb"
+   d="m 5647,13520 4913,-3035 -4959,2959 z"
+   class="fil12" />
+    <path
+   id="291"
+   style="fill:#fbfbfb"
+   d="m 5685,13580 4875,-3095 -4922,3019 z"
+   class="fil12" />
+    <path
+   id="292"
+   style="fill:#fbfbfb"
+   d="m 5723,13640 4837,-3155 -4885,3080 z"
+   class="fil12" />
+    <path
+   id="293"
+   style="fill:#fbfbfb"
+   d="m 5762,13699 4798,-3214 -4846,3140 z"
+   class="fil12" />
+    <path
+   id="294"
+   style="fill:#fbfbfb"
+   d="m 5802,13758 4758,-3273 -4807,3199 z"
+   class="fil12" />
+    <path
+   id="295"
+   style="fill:#fbfbfb"
+   d="m 5843,13816 4717,-3331 -4768,3258 z"
+   class="fil12" />
+    <path
+   id="296"
+   style="fill:#fbfbfb"
+   d="m 5884,13874 4676,-3389 -4727,3317 z"
+   class="fil12" />
+    <path
+   id="297"
+   style="fill:#fbfbfb"
+   d="m 5927,13932 4633,-3447 -4686,3375 z"
+   class="fil12" />
+    <path
+   id="298"
+   style="fill:#fbfbfb"
+   d="m 5969,13988 4591,-3503 -4644,3432 z"
+   class="fil12" />
+    <path
+   id="299"
+   style="fill:#fbfbfb"
+   d="m 6013,14045 4547,-3560 -4601,3489 z"
+   class="fil12" />
+    <path
+   id="300"
+   style="fill:#fbfbfb"
+   d="m 6057,14100 4503,-3615 -4558,3546 z"
+   class="fil12" />
+    <path
+   id="301"
+   style="fill:#fbfbfb"
+   d="m 6102,14156 4458,-3671 -4514,3601 z"
+   class="fil12" />
+    <path
+   id="302"
+   style="fill:#fbfbfb"
+   d="m 6148,14210 4412,-3725 -4469,3657 z"
+   class="fil12" />
+    <path
+   id="303"
+   style="fill:#fbfbfb"
+   d="m 6194,14264 4366,-3779 -4424,3712 z"
+   class="fil12" />
+    <path
+   id="304"
+   style="fill:#fafafa"
+   d="m 6241,14318 4319,-3833 -4378,3766 z"
+   class="fil11" />
+    <path
+   id="305"
+   style="fill:#fafafa"
+   d="m 6288,14371 4272,-3886 -4331,3819 z"
+   class="fil11" />
+    <path
+   id="306"
+   style="fill:#fafafa"
+   d="m 6336,14423 4224,-3938 -4284,3872 z"
+   class="fil11" />
+    <path
+   id="307"
+   style="fill:#fafafa"
+   d="m 6385,14475 4175,-3990 -4236,3925 z"
+   class="fil11" />
+    <path
+   id="308"
+   style="fill:#fafafa"
+   d="m 6435,14526 4125,-4041 -4187,3977 z"
+   class="fil11" />
+    <path
+   id="309"
+   style="fill:#fafafa"
+   d="m 6485,14576 4075,-4091 -4138,4028 z"
+   class="fil11" />
+    <path
+   id="310"
+   style="fill:#fafafa"
+   d="m 6536,14626 4024,-4141 -4088,4079 z"
+   class="fil11" />
+    <path
+   id="311"
+   style="fill:#fafafa"
+   d="m 6587,14676 3973,-4191 -4037,4129 z"
+   class="fil11" />
+    <path
+   id="312"
+   style="fill:#fafafa"
+   d="m 6639,14724 3921,-4239 -3986,4178 z"
+   class="fil11" />
+    <path
+   id="313"
+   style="fill:#fafafa"
+   d="m 6691,14772 3869,-4287 -3934,4227 z"
+   class="fil11" />
+    <path
+   id="314"
+   style="fill:#fafafa"
+   d="m 6744,14820 3816,-4335 -3882,4275 z"
+   class="fil11" />
+    <path
+   id="315"
+   style="fill:#fafafa"
+   d="m 6798,14866 3762,-4381 -3829,4323 z"
+   class="fil11" />
+    <path
+   id="316"
+   style="fill:#fafafa"
+   d="m 6852,14912 3708,-4427 -3775,4369 z"
+   class="fil11" />
+    <path
+   id="317"
+   style="fill:#fafafa"
+   d="m 6907,14958 3653,-4473 -3721,4416 z"
+   class="fil11" />
+    <path
+   id="318"
+   style="fill:#fafafa"
+   d="m 6963,15002 3597,-4517 -3666,4461 z"
+   class="fil11" />
+    <path
+   id="319"
+   style="fill:#fafafa"
+   d="m 7019,15046 3541,-4561 -3611,4506 z"
+   class="fil11" />
+    <path
+   id="320"
+   style="fill:#fafafa"
+   d="m 7075,15089 3485,-4604 -3555,4550 z"
+   class="fil11" />
+    <path
+   id="321"
+   style="fill:#fafafa"
+   d="m 7132,15132 3428,-4647 -3499,4594 z"
+   class="fil11" />
+    <path
+   id="322"
+   style="fill:#fafafa"
+   d="m 7190,15174 3370,-4689 -3442,4636 z"
+   class="fil11" />
+    <path
+   id="323"
+   style="fill:#f9f9f9"
+   d="m 7248,15215 3312,-4730 -3385,4678 z"
+   class="fil10" />
+    <path
+   id="324"
+   style="fill:#f9f9f9"
+   d="m 7306,15256 3254,-4771 -3327,4720 z"
+   class="fil10" />
+    <path
+   id="325"
+   style="fill:#f9f9f9"
+   d="m 7365,15295 3195,-4810 -3269,4760 z"
+   class="fil10" />
+    <path
+   id="326"
+   style="fill:#f9f9f9"
+   d="m 7425,15334 3135,-4849 -3210,4800 z"
+   class="fil10" />
+    <path
+   id="327"
+   style="fill:#f9f9f9"
+   d="m 7485,15372 3075,-4887 -3150,4839 z"
+   class="fil10" />
+    <path
+   id="328"
+   style="fill:#f9f9f9"
+   d="m 7545,15410 3015,-4925 -3090,4878 z"
+   class="fil10" />
+    <path
+   id="329"
+   style="fill:#f9f9f9"
+   d="m 7606,15447 2954,-4962 -3030,4916 z"
+   class="fil10" />
+    <path
+   id="330"
+   style="fill:#f9f9f9"
+   d="m 7667,15483 2893,-4998 -2969,4953 z"
+   class="fil10" />
+    <path
+   id="331"
+   style="fill:#f9f9f9"
+   d="m 7729,15518 2831,-5033 -2908,4989 z"
+   class="fil10" />
+    <path
+   id="332"
+   style="fill:#f9f9f9"
+   d="m 7791,15552 2769,-5067 -2846,5024 z"
+   class="fil10" />
+    <path
+   id="333"
+   style="fill:#f9f9f9"
+   d="m 7854,15586 2706,-5101 -2784,5059 z"
+   class="fil10" />
+    <path
+   id="334"
+   style="fill:#f9f9f9"
+   d="m 7917,15619 2643,-5134 -2722,5093 z"
+   class="fil10" />
+    <path
+   id="335"
+   style="fill:#f9f9f9"
+   d="m 7981,15651 2579,-5166 -2659,5126 z"
+   class="fil10" />
+    <path
+   id="336"
+   style="fill:#f9f9f9"
+   d="m 8044,15683 2516,-5198 -2595,5158 z"
+   class="fil10" />
+    <path
+   id="337"
+   style="fill:#f9f9f9"
+   d="m 8109,15713 2451,-5228 -2532,5190 z"
+   class="fil10" />
+    <path
+   id="338"
+   style="fill:#f9f9f9"
+   d="m 8173,15743 2387,-5258 -2467,5221 z"
+   class="fil10" />
+    <path
+   id="339"
+   style="fill:#f9f9f9"
+   d="m 8238,15772 2322,-5287 -2403,5251 z"
+   class="fil10" />
+    <path
+   id="340"
+   style="fill:#f9f9f9"
+   d="m 8303,15800 2257,-5315 -2338,5280 z"
+   class="fil10" />
+    <path
+   id="341"
+   style="fill:#f9f9f9"
+   d="m 8369,15828 2191,-5343 -2273,5308 z"
+   class="fil10" />
+    <path
+   id="342"
+   style="fill:#f9f9f9"
+   d="m 8435,15854 2125,-5369 -2207,5336 z"
+   class="fil10" />
+    <path
+   id="343"
+   style="fill:#f8f8f8"
+   d="m 8501,15880 2059,-5395 -2141,5363 z"
+   class="fil9" />
+    <path
+   id="344"
+   style="fill:#f8f8f8"
+   d="m 8568,15905 1992,-5420 -2075,5389 z"
+   class="fil9" />
+    <path
+   id="345"
+   style="fill:#f8f8f8"
+   d="m 8635,15929 1925,-5444 -2009,5414 z"
+   class="fil9" />
+    <path
+   id="346"
+   style="fill:#f8f8f8"
+   d="m 8702,15952 1858,-5467 -1942,5438 z"
+   class="fil9" />
+    <path
+   id="347"
+   style="fill:#f8f8f8"
+   d="m 8770,15975 1790,-5490 -1875,5462 z"
+   class="fil9" />
+    <path
+   id="348"
+   style="fill:#f8f8f8"
+   d="m 8837,15997 1723,-5512 -1807,5484 z"
+   class="fil9" />
+    <path
+   id="349"
+   style="fill:#f8f8f8"
+   d="m 8906,16017 1654,-5532 -1739,5506 z"
+   class="fil9" />
+    <path
+   id="350"
+   style="fill:#f8f8f8"
+   d="m 8974,16037 1586,-5552 -1671,5527 z"
+   class="fil9" />
+    <path
+   id="351"
+   style="fill:#f8f8f8"
+   d="m 9042,16056 1518,-5571 -1603,5547 z"
+   class="fil9" />
+    <path
+   id="352"
+   style="fill:#f8f8f8"
+   d="m 9111,16075 1449,-5590 -1535,5567 z"
+   class="fil9" />
+    <path
+   id="353"
+   style="fill:#f8f8f8"
+   d="m 9180,16092 1380,-5607 -1466,5585 z"
+   class="fil9" />
+    <path
+   id="354"
+   style="fill:#f8f8f8"
+   d="m 9249,16109 1311,-5624 -1397,5603 z"
+   class="fil9" />
+    <path
+   id="355"
+   style="fill:#f8f8f8"
+   d="m 9319,16124 1241,-5639 -1328,5619 z"
+   class="fil9" />
+    <path
+   id="356"
+   style="fill:#f8f8f8"
+   d="m 9388,16139 1172,-5654 -1259,5635 z"
+   class="fil9" />
+    <path
+   id="357"
+   style="fill:#f8f8f8"
+   d="m 9458,16153 1102,-5668 -1189,5650 z"
+   class="fil9" />
+    <path
+   id="358"
+   style="fill:#f8f8f8"
+   d="m 9528,16166 1032,-5681 -1119,5665 z"
+   class="fil9" />
+    <path
+   id="359"
+   style="fill:#f8f8f8"
+   d="m 9598,16179 962,-5694 -1050,5678 z"
+   class="fil9" />
+    <path
+   id="360"
+   style="fill:#f8f8f8"
+   d="m 9668,16190 892,-5705 -980,5691 z"
+   class="fil9" />
+    <path
+   id="361"
+   style="fill:#f8f8f8"
+   d="m 9739,16201 821,-5716 -909,5702 z"
+   class="fil9" />
+    <path
+   id="362"
+   style="fill:#f7f7f7"
+   d="m 9809,16210 751,-5725 -839,5713 z"
+   class="fil8" />
+    <path
+   id="363"
+   style="fill:#f7f7f7"
+   d="m 9880,16219 680,-5734 -769,5723 z"
+   class="fil8" />
+    <path
+   id="364"
+   style="fill:#f7f7f7"
+   d="m 9950,16227 610,-5742 -698,5732 z"
+   class="fil8" />
+    <path
+   id="365"
+   style="fill:#f7f7f7"
+   d="m 10021,16234 539,-5749 -627,5740 z"
+   class="fil8" />
+    <path
+   id="366"
+   style="fill:#f7f7f7"
+   d="m 10092,16240 468,-5755 -557,5747 z"
+   class="fil8" />
+    <path
+   id="367"
+   style="fill:#f7f7f7"
+   d="m 10163,16246 397,-5761 -486,5754 z"
+   class="fil8" />
+    <path
+   id="368"
+   style="fill:#f7f7f7"
+   d="m 10234,16250 326,-5765 -415,5759 z"
+   class="fil8" />
+    <path
+   id="369"
+   style="fill:#f7f7f7"
+   d="m 10305,16254 255,-5769 -344,5764 z"
+   class="fil8" />
+    <path
+   id="370"
+   style="fill:#f7f7f7"
+   d="m 10376,16256 184,-5771 -273,5768 z"
+   class="fil8" />
+    <path
+   id="371"
+   style="fill:#f7f7f7"
+   d="m 10447,16258 113,-5773 -202,5771 z"
+   class="fil8" />
+    <path
+   id="372"
+   style="fill:#f7f7f7"
+   d="m 10518,16259 42,-5774 -131,5773 z"
+   class="fil8" />
+    <path
+   id="373"
+   style="fill:#f7f7f7"
+   d="m 10589,16259 -29,-5774 -59,5774 z"
+   class="fil8" />
+    <path
+   id="374"
+   style="fill:#f7f7f7"
+   d="m 10661,16258 -101,-5773 12,5774 z"
+   class="fil8" />
+    <path
+   id="375"
+   style="fill:#f7f7f7"
+   d="m 10732,16257 -172,-5772 83,5774 z"
+   class="fil8" />
+    <path
+   id="376"
+   style="fill:#f7f7f7"
+   d="m 10803,16254 -243,-5769 154,5772 z"
+   class="fil8" />
+    <path
+   id="377"
+   style="fill:#f7f7f7"
+   d="m 10874,16251 -314,-5766 225,5770 z"
+   class="fil8" />
+    <path
+   id="378"
+   style="fill:#f7f7f7"
+   d="m 10945,16246 -385,-5761 296,5767 z"
+   class="fil8" />
+    <path
+   id="379"
+   style="fill:#f7f7f7"
+   d="m 11016,16241 -456,-5756 367,5762 z"
+   class="fil8" />
+    <path
+   id="380"
+   style="fill:#f7f7f7"
+   d="m 11087,16235 -527,-5750 438,5757 z"
+   class="fil8" />
+    <path
+   id="381"
+   style="fill:#f7f7f7"
+   d="m 11158,16228 -598,-5743 509,5752 z"
+   class="fil8" />
+    <path
+   id="382"
+   style="fill:#f6f6f6"
+   d="m 11228,16220 -668,-5735 580,5745 z"
+   class="fil7" />
+    <path
+   id="383"
+   style="fill:#f6f6f6"
+   d="m 11299,16212 -739,-5727 651,5737 z"
+   class="fil7" />
+    <path
+   id="384"
+   style="fill:#f6f6f6"
+   d="m 11369,16202 -809,-5717 721,5729 z"
+   class="fil7" />
+    <path
+   id="385"
+   style="fill:#f6f6f6"
+   d="m 11440,16192 -880,-5707 792,5720 z"
+   class="fil7" />
+    <path
+   id="386"
+   style="fill:#f6f6f6"
+   d="m 11510,16181 -950,-5696 862,5709 z"
+   class="fil7" />
+    <path
+   id="387"
+   style="fill:#f6f6f6"
+   d="m 11580,16168 -1020,-5683 932,5698 z"
+   class="fil7" />
+    <path
+   id="388"
+   style="fill:#f6f6f6"
+   d="m 11650,16155 -1090,-5670 1003,5686 z"
+   class="fil7" />
+    <path
+   id="389"
+   style="fill:#f6f6f6"
+   d="m 11720,16142 -1160,-5657 1073,5674 z"
+   class="fil7" />
+    <path
+   id="390"
+   style="fill:#f6f6f6"
+   d="m 11789,16127 -1229,-5642 1142,5660 z"
+   class="fil7" />
+    <path
+   id="391"
+   style="fill:#f6f6f6"
+   d="m 11859,16111 -1299,-5626 1212,5645 z"
+   class="fil7" />
+    <path
+   id="392"
+   style="fill:#f6f6f6"
+   d="m 11928,16095 -1368,-5610 1282,5630 z"
+   class="fil7" />
+    <path
+   id="393"
+   style="fill:#f6f6f6"
+   d="m 11997,16078 -1437,-5593 1351,5614 z"
+   class="fil7" />
+    <path
+   id="394"
+   style="fill:#f6f6f6"
+   d="m 12066,16059 -1506,-5574 1420,5597 z"
+   class="fil7" />
+    <path
+   id="395"
+   style="fill:#f6f6f6"
+   d="m 12134,16040 -1574,-5555 1489,5579 z"
+   class="fil7" />
+    <path
+   id="396"
+   style="fill:#f6f6f6"
+   d="m 12203,16021 -1643,-5536 1557,5560 z"
+   class="fil7" />
+    <path
+   id="397"
+   style="fill:#f6f6f6"
+   d="m 12271,16000 -1711,-5515 1626,5540 z"
+   class="fil7" />
+    <path
+   id="398"
+   style="fill:#f6f6f6"
+   d="m 12339,15978 -1779,-5493 1694,5520 z"
+   class="fil7" />
+    <path
+   id="399"
+   style="fill:#f6f6f6"
+   d="m 12406,15956 -1846,-5471 1762,5499 z"
+   class="fil7" />
+    <path
+   id="400"
+   style="fill:#f6f6f6"
+   d="m 12474,15933 -1914,-5448 1829,5477 z"
+   class="fil7" />
+    <path
+   id="401"
+   style="fill:#f6f6f6"
+   d="m 12540,15909 -1980,-5424 1897,5454 z"
+   class="fil7" />
+    <path
+   id="402"
+   style="fill:#f5f5f5"
+   d="m 12607,15884 -2047,-5399 1964,5430 z"
+   class="fil6" />
+    <path
+   id="403"
+   style="fill:#f5f5f5"
+   d="m 12674,15858 -2114,-5373 2030,5405 z"
+   class="fil6" />
+    <path
+   id="404"
+   style="fill:#f5f5f5"
+   d="m 12740,15832 -2180,-5347 2097,5380 z"
+   class="fil6" />
+    <path
+   id="405"
+   style="fill:#f5f5f5"
+   d="m 12805,15805 -2245,-5320 2163,5354 z"
+   class="fil6" />
+    <path
+   id="406"
+   style="fill:#f5f5f5"
+   d="m 12871,15777 -2311,-5292 2229,5327 z"
+   class="fil6" />
+    <path
+   id="407"
+   style="fill:#f5f5f5"
+   d="m 12936,15748 -2376,-5263 2294,5299 z"
+   class="fil6" />
+    <path
+   id="408"
+   style="fill:#f5f5f5"
+   d="m 13000,15718 -2440,-5233 2359,5270 z"
+   class="fil6" />
+    <path
+   id="409"
+   style="fill:#f5f5f5"
+   d="m 13065,15688 -2505,-5203 2424,5241 z"
+   class="fil6" />
+    <path
+   id="410"
+   style="fill:#f5f5f5"
+   d="m 13129,15656 -2569,-5171 2489,5210 z"
+   class="fil6" />
+    <path
+   id="411"
+   style="fill:#f5f5f5"
+   d="m 13192,15624 -2632,-5139 2553,5179 z"
+   class="fil6" />
+    <path
+   id="412"
+   style="fill:#f5f5f5"
+   d="m 13255,15592 -2695,-5107 2616,5147 z"
+   class="fil6" />
+    <path
+   id="413"
+   style="fill:#f5f5f5"
+   d="m 13318,15558 -2758,-5073 2679,5115 z"
+   class="fil6" />
+    <path
+   id="414"
+   style="fill:#f5f5f5"
+   d="m 13380,15524 -2820,-5039 2742,5081 z"
+   class="fil6" />
+    <path
+   id="415"
+   style="fill:#f5f5f5"
+   d="m 13442,15488 -2882,-5003 2805,5047 z"
+   class="fil6" />
+    <path
+   id="416"
+   style="fill:#f5f5f5"
+   d="m 13503,15453 -2943,-4968 2867,5012 z"
+   class="fil6" />
+    <path
+   id="417"
+   style="fill:#f5f5f5"
+   d="m 13564,15416 -3004,-4931 2928,4977 z"
+   class="fil6" />
+    <path
+   id="418"
+   style="fill:#f5f5f5"
+   d="m 13625,15379 -3065,-4894 2989,4940 z"
+   class="fil6" />
+    <path
+   id="419"
+   style="fill:#f5f5f5"
+   d="m 13685,15340 -3125,-4855 3050,4903 z"
+   class="fil6" />
+    <path
+   id="420"
+   style="fill:#f5f5f5"
+   d="m 13745,15302 -3185,-4817 3110,4865 z"
+   class="fil6" />
+    <path
+   id="421"
+   style="fill:#f4f4f5"
+   d="m 13804,15262 -3244,-4777 3170,4826 z"
+   class="fil5" />
+    <path
+   id="422"
+   style="fill:#f4f4f5"
+   d="m 13862,15222 -3302,-4737 3229,4787 z"
+   class="fil5" />
+    <path
+   id="423"
+   style="fill:#f4f4f5"
+   d="m 13920,15181 -3360,-4696 3288,4747 z"
+   class="fil5" />
+    <path
+   id="424"
+   style="fill:#f4f4f5"
+   d="m 13978,15139 -3418,-4654 3346,4706 z"
+   class="fil5" />
+    <path
+   id="425"
+   style="fill:#f4f4f5"
+   d="m 14035,15096 -3475,-4611 3404,4664 z"
+   class="fil5" />
+    <path
+   id="426"
+   style="fill:#f4f4f5"
+   d="m 14092,15053 -3532,-4568 3461,4622 z"
+   class="fil5" />
+    <path
+   id="427"
+   style="fill:#f4f4f5"
+   d="m 14148,15009 -3588,-4524 3518,4579 z"
+   class="fil5" />
+    <path
+   id="428"
+   style="fill:#f4f4f5"
+   d="m 14203,14965 -3643,-4480 3574,4535 z"
+   class="fil5" />
+    <path
+   id="429"
+   style="fill:#f4f4f5"
+   d="m 14258,14920 -3698,-4435 3629,4491 z"
+   class="fil5" />
+    <path
+   id="430"
+   style="fill:#f4f4f5"
+   d="m 14312,14874 -3752,-4389 3684,4446 z"
+   class="fil5" />
+    <path
+   id="431"
+   style="fill:#f4f4f5"
+   d="m 14366,14827 -3806,-4342 3739,4400 z"
+   class="fil5" />
+    <path
+   id="432"
+   style="fill:#f4f4f5"
+   d="m 14419,14780 -3859,-4295 3793,4354 z"
+   class="fil5" />
+    <path
+   id="433"
+   style="fill:#f4f4f5"
+   d="m 14472,14732 -3912,-4247 3846,4307 z"
+   class="fil5" />
+    <path
+   id="434"
+   style="fill:#f4f4f5"
+   d="m 14524,14683 -3964,-4198 3899,4259 z"
+   class="fil5" />
+    <path
+   id="435"
+   style="fill:#f4f4f5"
+   d="m 14576,14634 -4016,-4149 3951,4211 z"
+   class="fil5" />
+    <path
+   id="436"
+   style="fill:#f4f4f5"
+   d="m 14626,14584 -4066,-4099 4003,4162 z"
+   class="fil5" />
+    <path
+   id="437"
+   style="fill:#f4f4f5"
+   d="m 14677,14534 -4117,-4049 4054,4112 z"
+   class="fil5" />
+    <path
+   id="438"
+   style="fill:#f4f4f5"
+   d="m 14726,14483 -4166,-3998 4104,4062 z"
+   class="fil5" />
+    <path
+   id="439"
+   style="fill:#f4f4f5"
+   d="m 14775,14431 -4215,-3946 4154,4011 z"
+   class="fil5" />
+    <path
+   id="440"
+   style="fill:#f4f4f5"
+   d="m 14823,14379 -4263,-3894 4203,3959 z"
+   class="fil5" />
+    <path
+   id="441"
+   style="fill:#f3f3f4"
+   d="m 14871,14326 -4311,-3841 4251,3907 z"
+   class="fil4" />
+    <path
+   id="442"
+   style="fill:#f3f3f4"
+   d="m 14918,14273 -4358,-3788 4299,3855 z"
+   class="fil4" />
+    <path
+   id="443"
+   style="fill:#f3f3f4"
+   d="m 14964,14219 -4404,-3734 4346,3801 z"
+   class="fil4" />
+    <path
+   id="444"
+   style="fill:#f3f3f4"
+   d="m 15010,14164 -4450,-3679 4393,3747 z"
+   class="fil4" />
+    <path
+   id="445"
+   style="fill:#f3f3f4"
+   d="m 15055,14109 -4495,-3624 4439,3693 z"
+   class="fil4" />
+    <path
+   id="446"
+   style="fill:#f3f3f4"
+   d="m 15099,14054 -4539,-3569 4484,3638 z"
+   class="fil4" />
+    <path
+   id="447"
+   style="fill:#f3f3f4"
+   d="m 15143,13997 -4583,-3512 4528,3583 z"
+   class="fil4" />
+    <path
+   id="448"
+   style="fill:#f3f3f4"
+   d="m 15186,13941 -4626,-3456 4572,3526 z"
+   class="fil4" />
+    <path
+   id="449"
+   style="fill:#f3f3f4"
+   d="m 15228,13883 -4668,-3398 4615,3470 z"
+   class="fil4" />
+    <path
+   id="450"
+   style="fill:#f3f3f4"
+   d="m 15270,13826 -4710,-3341 4658,3413 z"
+   class="fil4" />
+    <path
+   id="451"
+   style="fill:#f3f3f4"
+   d="m 15310,13767 -4750,-3282 4699,3355 z"
+   class="fil4" />
+    <path
+   id="452"
+   style="fill:#f3f3f4"
+   d="m 15351,13709 -4791,-3224 4740,3297 z"
+   class="fil4" />
+    <path
+   id="453"
+   style="fill:#f3f3f4"
+   d="m 15390,13649 -4830,-3164 4780,3238 z"
+   class="fil4" />
+    <path
+   id="454"
+   style="fill:#f3f3f4"
+   d="m 15429,13590 -4869,-3105 4820,3179 z"
+   class="fil4" />
+    <path
+   id="455"
+   style="fill:#f3f3f4"
+   d="m 15466,13529 -4906,-3044 4859,3120 z"
+   class="fil4" />
+    <path
+   id="456"
+   style="fill:#f3f3f4"
+   d="m 15504,13469 -4944,-2984 4897,3059 z"
+   class="fil4" />
+    <path
+   id="457"
+   style="fill:#f3f3f4"
+   d="m 15540,13408 -4980,-2923 4934,2999 z"
+   class="fil4" />
+    <path
+   id="458"
+   style="fill:#f3f3f4"
+   d="m 15576,13346 -5016,-2861 4971,2938 z"
+   class="fil4" />
+    <path
+   id="459"
+   style="fill:#f3f3f4"
+   d="m 15610,13284 -5050,-2799 5007,2876 z"
+   class="fil4" />
+    <path
+   id="460"
+   style="fill:#f2f3f3"
+   d="m 15645,13222 -5085,-2737 5042,2814 z"
+   class="fil3" />
+    <path
+   id="461"
+   style="fill:#f2f3f3"
+   d="m 15678,13159 -5118,-2674 5076,2752 z"
+   class="fil3" />
+    <path
+   id="462"
+   style="fill:#f2f3f3"
+   d="m 15710,13095 -5150,-2610 5110,2689 z"
+   class="fil3" />
+    <path
+   id="463"
+   style="fill:#f2f3f3"
+   d="m 15742,13032 -5182,-2547 5142,2626 z"
+   class="fil3" />
+    <path
+   id="464"
+   style="fill:#f2f3f3"
+   d="m 15773,12968 -5213,-2483 5174,2563 z"
+   class="fil3" />
+    <path
+   id="465"
+   style="fill:#f2f3f3"
+   d="m 15803,12903 -5243,-2418 5205,2499 z"
+   class="fil3" />
+    <path
+   id="466"
+   style="fill:#f2f3f3"
+   d="m 15833,12839 -5273,-2354 5236,2434 z"
+   class="fil3" />
+    <path
+   id="467"
+   style="fill:#f2f3f3"
+   d="m 15861,12773 -5301,-2288 5265,2370 z"
+   class="fil3" />
+    <path
+   id="468"
+   style="fill:#f2f3f3"
+   d="m 15889,12708 -5329,-2223 5294,2305 z"
+   class="fil3" />
+    <path
+   id="469"
+   style="fill:#f2f3f3"
+   d="m 15916,12642 -5356,-2157 5322,2239 z"
+   class="fil3" />
+    <path
+   id="470"
+   style="fill:#f2f3f3"
+   d="m 15942,12576 -5382,-2091 5349,2174 z"
+   class="fil3" />
+    <path
+   id="471"
+   style="fill:#f2f3f3"
+   d="m 15968,12509 -5408,-2024 5376,2107 z"
+   class="fil3" />
+    <path
+   id="472"
+   style="fill:#f2f3f3"
+   d="m 15992,12443 -5432,-1958 5401,2041 z"
+   class="fil3" />
+    <path
+   id="473"
+   style="fill:#f2f3f3"
+   d="m 16016,12376 -5456,-1891 5426,1974 z"
+   class="fil3" />
+    <path
+   id="474"
+   style="fill:#f2f3f3"
+   d="m 16039,12308 -5479,-1823 5450,1907 z"
+   class="fil3" />
+    <path
+   id="475"
+   style="fill:#f2f3f3"
+   d="m 16061,12241 -5501,-1756 5473,1840 z"
+   class="fil3" />
+    <path
+   id="476"
+   style="fill:#f2f3f3"
+   d="m 16082,12173 -5522,-1688 5495,1773 z"
+   class="fil3" />
+    <path
+   id="477"
+   style="fill:#f2f3f3"
+   d="m 16102,12105 -5542,-1620 5517,1705 z"
+   class="fil3" />
+    <path
+   id="478"
+   style="fill:#f2f3f3"
+   d="m 16122,12036 -5562,-1551 5537,1637 z"
+   class="fil3" />
+    <path
+   id="479"
+   style="fill:#f2f3f3"
+   d="m 16141,11968 -5581,-1483 5557,1568 z"
+   class="fil3" />
+    <path
+   id="480"
+   style="fill:#f1f2f2"
+   d="m 16159,11899 -5599,-1414 5576,1500 z"
+   class="fil2" />
+    <path
+   id="481"
+   style="fill:#f1f2f2"
+   d="m 16176,11830 -5616,-1345 5594,1431 z"
+   class="fil2" />
+    <path
+   id="482"
+   style="fill:#f1f2f2"
+   d="m 16192,11760 -5632,-1275 5611,1362 z"
+   class="fil2" />
+    <path
+   id="483"
+   style="fill:#f1f2f2"
+   d="m 16207,11691 -5647,-1206 5628,1293 z"
+   class="fil2" />
+    <path
+   id="484"
+   style="fill:#f1f2f2"
+   d="m 16221,11621 -5661,-1136 5643,1223 z"
+   class="fil2" />
+    <path
+   id="485"
+   style="fill:#f1f2f2"
+   d="m 16235,11551 -5675,-1066 5658,1154 z"
+   class="fil2" />
+    <path
+   id="486"
+   style="fill:#f1f2f2"
+   d="m 16248,11481 -5688,-996 5672,1084 z"
+   class="fil2" />
+    <path
+   id="487"
+   style="fill:#f1f2f2"
+   d="m 16260,11411 -5700,-926 5684,1014 z"
+   class="fil2" />
+    <path
+   id="488"
+   style="fill:#f1f2f2"
+   d="m 16271,11341 -5711,-856 5697,944 z"
+   class="fil2" />
+    <path
+   id="489"
+   style="fill:#f1f2f2"
+   d="m 16281,11270 -5721,-785 5708,873 z"
+   class="fil2" />
+    <path
+   id="490"
+   style="fill:#f1f2f2"
+   d="m 16290,11200 -5730,-715 5718,803 z"
+   class="fil2" />
+    <path
+   id="491"
+   style="fill:#f1f2f2"
+   d="m 16298,11129 -5738,-644 5728,733 z"
+   class="fil2" />
+    <path
+   id="492"
+   style="fill:#f1f2f2"
+   d="m 16306,11058 -5746,-573 5736,662 z"
+   class="fil2" />
+    <path
+   id="493"
+   style="fill:#f1f2f2"
+   d="m 16312,10988 -5752,-503 5744,591 z"
+   class="fil2" />
+    <path
+   id="494"
+   style="fill:#f1f2f2"
+   d="m 16318,10917 -5758,-432 5751,520 z"
+   class="fil2" />
+    <path
+   id="495"
+   style="fill:#f1f2f2"
+   d="m 16323,10846 -5763,-361 5757,449 z"
+   class="fil2" />
+    <path
+   id="496"
+   style="fill:#f1f2f2"
+   d="m 16327,10775 -5767,-290 5762,379 z"
+   class="fil2" />
+    <path
+   id="497"
+   style="fill:#f1f2f2"
+   d="m 16330,10704 -5770,-219 5766,307 z"
+   class="fil2" />
+    <path
+   id="498"
+   style="fill:#f1f2f2"
+   d="m 16332,10633 -5772,-148 5769,236 z"
+   class="fil2" />
+    <path
+   id="499"
+   style="fill:#f1f2f2"
+   d="m 16334,10561 -5774,-76 5772,165 z"
+   class="fil2" />
+    <path
+   id="500"
+   style="fill:#f1f1f2"
+   d="m 16334,10490 -5774,-5 5773,94 z"
+   class="fil1" />
+    <path
+   id="501"
+   style="fill:#f1f1f2"
+   d="m 16334,10419 -5774,66 5774,23 z"
+   class="fil1" />
+    <path
+   id="502"
+   style="fill:#f1f1f2"
+   d="m 16333,10348 -5773,137 5774,-48 z"
+   class="fil1" />
+    <path
+   id="503"
+   style="fill:#f1f1f2"
+   d="m 16331,10277 -5771,208 5773,-119 z"
+   class="fil1" />
+    <path
+   id="504"
+   style="fill:#f1f1f2"
+   d="m 16328,10206 -5768,279 5771,-190 z"
+   class="fil1" />
+    <path
+   id="505"
+   style="fill:#f1f1f2"
+   d="m 16324,10135 -5764,350 5768,-261 z"
+   class="fil1" />
+    <path
+   id="506"
+   style="fill:#f1f1f2"
+   d="m 16319,10064 -5759,421 5765,-332 z"
+   class="fil1" />
+    <path
+   id="507"
+   style="fill:#f1f1f2"
+   d="m 16313,9993 -5753,492 5760,-403 z"
+   class="fil1" />
+    <path
+   id="508"
+   style="fill:#f1f1f2"
+   d="m 16307,9922 -5747,563 5755,-474 z"
+   class="fil1" />
+    <path
+   id="509"
+   style="fill:#f1f1f2"
+   d="m 16301,9869 -5741,616 5748,-545 z"
+   class="fil1" />
    </g>
+  </g>
+  <path
+   class="fil15"
+   d="m 3079.6142,883.06319 c 1.407,3.1679 -0.352,6.3359 -4.224,9.1519 -4.928,3.51987 -21.824,10.20767 -50.335,20.41557 -26.399,9.1518 -43.295,14.4316 -51.391,15.4877 -6.688,1.0559 -11.968,-1.7601 -16.192,-8.0958 -15.135,-24.6396 -24.991,-37.66337 -28.863,-38.01537 -3.168,0 -28.16,8.0959 -74.271,24.28747 -30.975,11.2639 -47.519,17.9518 -48.926,20.0636 -2.113,4.2239 -2.465,15.1358 -0.353,33.43937 1.76,16.5437 0.353,26.3995 -4.223,29.5674 -5.633,3.52 -26.4,11.61577 -61.599,23.93547 -28.16,10.2079 -43.296,12.3198 -45.056,7.0399 -1.759,-4.9278 -1.759,-70.75057 0,-197.46798 1.76,-137.27717 2.464,-212.60367 2.113,-226.33147 -0.353,-7.3919 1.056,-11.6158 3.872,-12.6717 5.279,-1.76 13.023,-4.2239 23.583,-7.0399 10.912,-2.8159 19.007,-4.9279 23.936,-6.6879 4.927,-1.76 12.319,-4.5759 21.823,-8.7998 9.152,-3.8719 16.544,-7.0398 21.119,-8.7998 3.521,-1.0559 7.744,0.704 13.024,5.6319 15.84,16.1917 65.119,72.8625 148.189,170.3646 83.423,98.20597 126.014,149.59694 127.774,154.52484 z m -283.003,-181.62824 c -1.056,9.1517 -1.408,29.2153 -1.056,59.4868 0.352,31.67937 1.409,49.98287 3.168,54.91077 1.409,3.52 7.392,3.52 18.305,0 5.631,-1.7599 15.135,-4.5759 27.806,-9.1518 11.968,-4.2239 17.952,-8.0958 18.305,-11.6158 0,-1.0559 -0.353,-2.1118 -0.705,-3.8718 -2.112,-5.98387 -12.32,-21.11957 -29.919,-45.40707 -17.6,-23.5836 -29.568,-38.3673 -35.904,-44.3511 z"
+   id="path1235"
+   style="stroke-width:0.351993" />
+  <path
+   id="ellipse1237"
+   style="fill:#4e5a62;stroke:#b9bbbd;stroke-width:7.62"
+   d="m 1013.3911,1558.8821 a 122.18224,239.42326 44.928959 0 1 -255.59057,83.2191 122.18224,239.42326 44.928959 0 1 82.58502,-255.7962 122.18224,239.42326 44.928959 0 1 255.59055,-83.219 122.18224,239.42326 44.928959 0 1 -82.585,255.7961 z"
+   class="fil16 str1" />
+  <path
+   id="ellipse1239"
+   style="fill:#fefefe;stroke-width:0.165121"
+   d="m 969.90592,1431.5998 a 44.913113,88.009888 44.929034 0 1 -93.95287,30.5905 44.913113,88.009888 44.929034 0 1 30.35767,-94.0283 44.913113,88.009888 44.929034 0 1 93.95288,-30.5906 44.913113,88.009888 44.929034 0 1 -30.35768,94.0284 z"
+   class="fil14" />
+  <path
+   class="fil17"
+   d="m 1099.3622,1358.4961 c -2.026,63.063 -28.112,119.542 -121.821,213.505 -129.167,110.423 -237.311,83.578 -217.81,3.799 63.823,44.574 314.811,-49.895 339.631,-217.304 z"
+   id="path1241"
+   style="fill:url(#id5);stroke-width:0.253268" />
+  <path
+   class="fil18"
+   d="M 1064.4112,683.03145 C 691.3482,381.38985 47.542202,1640.1291 722.7532,1695.3421 c -437.392,-106.373 -224.648,-724.34557 97.003,-970.26825 105.865,-71.6748 123.087,-86.3643 244.655,-42.0424 z"
+   id="path1243"
+   style="fill:url(#id6);stroke-width:0.253268" />
+  <path
+   class="fil19"
+   d="m 427.1912,1210.588 c 58.504,-201.3481 132.965,-362.93281 253.52,-479.94225 -153.227,91.93607 -250.228,278.84745 -253.52,479.94225 z"
+   id="path1245"
+   style="fill:url(#id3);stroke-width:0.253268" />
+  <path
+   class="fil20"
+   d="m 641.4552,1694.5821 c 554.656,47.107 707.375,-707.12327 418.398,-1000.40695 -61.291,-2.7859 -83.832,-30.6453 -129.674,-53.4394 388.766,-31.6584 457.149,1115.64335 -288.724,1053.84635 z"
+   id="path1247"
+   style="fill:url(#id4);stroke-width:0.253268" />
+  <path
+   class="fil15"
+   d="m 1821.9422,1008.7247 c 0,3.8719 -2.463,6.3358 -7.744,7.7438 -5.983,1.7599 -25.343,2.464 -57.022,2.464 -29.567,0 -48.223,-0.7041 -56.671,-2.464 -7.04,-1.408 -11.616,-5.9839 -13.376,-13.7277 -6.335,-29.91937 -11.615,-46.11107 -15.136,-48.22307 -3.519,-1.056 -30.975,-1.408 -82.718,-1.408 -34.847,0 -53.503,0.704 -55.966,2.464 -3.521,3.52 -7.744,14.4317 -11.969,33.0874 -4.223,17.24757 -8.799,26.39937 -14.431,27.80737 -7.04,1.7599 -30.271,2.464 -70.047,2.464 -31.679,0 -47.167,-2.816 -47.167,-8.7999 0,-5.2799 22.88,-71.10254 69.343,-196.76398 49.982,-136.22127 77.086,-211.19567 81.662,-224.57147 2.464,-7.7439 5.28,-11.6158 8.448,-11.6158 5.632,0 14.432,0.704 26.047,1.408 11.616,1.056 20.417,1.7599 26.048,1.7599 5.632,0 13.728,-0.352 24.639,-1.0559 10.912,-0.704 19.008,-1.408 24.289,-1.408 3.871,0 7.743,3.5199 10.911,10.2078 9.856,21.8236 39.423,95.3901 87.646,221.75557 48.927,127.42134 73.214,193.59608 73.214,198.87598 z m -218.235,-280.53835 c -4.224,9.1518 -11.616,28.8635 -21.824,58.7828 -10.911,32.03137 -16.191,50.68697 -16.191,56.31884 0,3.8719 5.984,5.632 18.304,6.3359 6.335,0.352 16.543,0.352 30.975,0.352 13.375,0 20.767,-1.408 22.175,-4.9279 0.352,-1.056 0.352,-2.112 0.352,-4.22387 0,-6.6879 -4.223,-25.3435 -13.376,-55.61487 -9.151,-29.9194 -15.839,-48.5751 -20.415,-57.0229 z m 609.652,218.93958 c 0,3.1679 -2.112,7.7438 -6.687,13.0237 -37.664,44.70307 -88,67.23067 -150.302,67.23067 -64.063,0 -116.157,-21.8236 -155.933,-65.47067 -38.719,-42.23917 -58.078,-95.74214 -58.078,-160.15681 0,-62.30267 19.007,-115.45367 57.022,-158.74877 39.776,-45.7591 90.11,-68.2866 151.357,-68.2866 66.527,0 118.621,20.0636 156.285,61.2467 4.224,4.2239 6.336,8.4478 6.336,11.9678 0,3.8719 -7.392,18.3036 -21.472,43.2951 -14.431,24.9915 -23.232,39.0713 -27.103,42.2392 -1.76,1.76 -3.52,2.4639 -5.984,2.4639 -1.056,0 -6.336,-4.2239 -15.488,-12.3197 -11.263,-9.8558 -21.823,-17.5996 -32.735,-23.2316 -16.191,-8.0958 -33.087,-12.3197 -50.335,-12.3197 -30.272,0 -54.559,11.2638 -72.511,33.7914 -16.543,21.1195 -24.991,46.815 -24.991,77.79037 0,31.3273 8.448,57.37487 24.991,78.49437 17.952,22.87957 42.239,34.49537 72.511,34.49537 17.599,0 34.847,-3.872 50.686,-11.6158 10.561,-5.2799 21.121,-12.31977 32.032,-21.47157 9.153,-7.7438 14.08,-11.6157 15.136,-11.6157 2.112,0 3.872,1.056 5.984,3.1678 3.168,3.872 12.319,16.5438 26.752,38.36727 14.783,22.8796 22.527,35.5513 22.527,37.66327 z m 446.327,59.83877 c 0,4.5759 -1.055,7.0398 -2.816,8.0958 -0.704,0.704 -3.52,1.056 -8.448,1.408 -12.671,1.408 -30.271,2.112 -52.798,2.112 -32.032,0 -51.04,-0.704 -56.671,-2.112 -5.632,-1.0559 -8.448,-3.8719 -8.448,-8.0959 0,-16.19157 0.704,-40.47907 2.112,-73.21444 1.408,-32.7354 2.112,-56.67087 2.112,-73.21457 0,-7.7438 -2.112,-12.6717 -6.689,-13.7276 -7.039,-1.76 -31.678,-2.464 -74.621,-2.464 -42.944,0 -67.936,0.704 -74.976,2.464 -4.576,1.0559 -7.039,5.6318 -7.039,13.7276 0,16.1917 0.704,40.12717 1.76,71.80657 1.056,32.03137 1.407,55.96687 1.407,72.15854 0,5.9839 -2.815,9.5039 -8.095,10.5598 -6.688,1.408 -26.047,2.112 -58.079,2.112 -27.456,0 -45.407,-0.704 -52.799,-2.112 -5.984,-1.0559 -8.8,-3.8719 -8.8,-9.5038 0,-22.17557 1.056,-55.61487 3.168,-100.31794 1.76,-44.70317 2.817,-78.14244 2.817,-100.66994 0,-23.58357 -1.057,-59.48687 -2.817,-107.35787 -2.112,-47.5191 -3.168,-83.4224 -3.168,-107.0059 0,-4.5759 2.113,-7.0398 6.336,-7.0398 6.336,0 15.84,0.3519 28.864,1.0559 12.671,0.7041 22.175,1.056 28.511,1.056 6.688,0 16.543,-0.3519 29.92,-1.056 13.375,-0.704 23.231,-1.0559 29.566,-1.0559 3.521,0 5.281,2.1119 5.281,5.6319 0,15.4876 -1.056,38.3671 -3.168,69.3425 -2.113,30.6235 -3.168,53.503 -3.168,68.9907 0,7.0398 2.112,11.2637 5.984,12.6718 5.28,1.4079 31.327,2.4639 78.846,2.4639 43.647,0 69.343,-1.056 76.383,-2.4639 4.928,-1.4081 7.04,-5.632 7.04,-12.6718 0,-14.7837 -0.705,-37.3113 -2.112,-67.2307 -1.409,-29.5674 -2.113,-52.095 -2.113,-67.2306 0,-6.3359 2.465,-9.5038 7.744,-9.5038 5.985,0 14.784,0.3519 27.104,1.0559 12.32,0.7041 21.472,1.056 27.455,1.056 5.984,0 15.136,-0.3519 27.456,-1.056 11.968,-0.704 21.471,-1.0559 27.456,-1.0559 5.983,0 8.799,2.4639 8.799,7.3918 0,23.5836 -0.704,59.4868 -2.816,107.0059 -1.76,47.519 -2.816,83.4223 -2.816,107.00587 0,22.5275 1.056,55.96677 3.168,100.66994 2.113,44.70307 3.168,78.14237 3.168,100.31794 z"
+   id="path1249"
+   style="stroke-width:0.351993" />
+  <path
+   class="fil21"
+   d="m 2919.4572,1078.4193 c -5.984,0.352 -8.8,-2.8159 -8.8,-9.1519 0,-2.4639 0.352,-5.9838 1.056,-11.2637 0.704,-4.9279 1.056,-8.7999 1.056,-11.6158 0,-3.5199 -0.704,-9.1518 -1.76,-16.5437 -1.056,-7.3918 -1.408,-13.0237 -1.408,-16.5437 0,-4.2239 3.168,-7.3918 9.152,-9.8557 14.783,-5.63187 42.943,-20.41557 85.182,-43.99907 18.304,-13.37577 46.111,-32.73537 83.071,-58.78287 1.759,-1.408 4.927,-2.816 8.799,-4.5759 2.112,0.704 4.576,2.1119 7.744,4.5759 6.688,7.0399 17.6,17.2476 32.384,30.2714 8.448,4.9279 20.768,12.3198 36.607,22.87947 4.928,3.168 7.392,5.9839 7.392,8.7998 0,2.464 -2.464,5.632 -6.336,9.5039 -26.4,24.6395 -65.823,48.22297 -118.269,70.39857 -52.448,22.1755 -96.447,34.1433 -131.998,35.9033 z"
+   id="path1251"
+   style="stroke-width:0.351993" />
   
-  <path class="fil15" d="m17363 9296c4 9-1 18-12 26-14 10-62 29-143 58-75 26-123 41-146 44-19 3-34-5-46-23-43-70-71-107-82-108-9 0-80 23-211 69-88 32-135 51-139 57-6 12-7 43-1 95 5 47 1 75-12 84-16 10-75 33-175 68-80 29-123 35-128 20-5-14-5-201 0-561 5-390 7-604 6-643-1-21 3-33 11-36 15-5 37-12 67-20 31-8 54-14 68-19s35-13 62-25c26-11 47-20 60-25 10-3 22 2 37 16 45 46 185 207 421 484 237 279 358 425 363 439zm-804-516c-3 26-4 83-3 169 1 90 4 142 9 156 4 10 21 10 52 0 16-5 43-13 79-26 34-12 51-23 52-33 0-3-1-6-2-11-6-17-35-60-85-129-50-67-84-109-102-126z"/>
-  <ellipse class="fil16 str1" transform="matrix(1.2557 1.2526 -1.2526 1.2557 10859 10644)" rx="272" ry="533"/>
-  <ellipse class="fil14" transform="matrix(.46158 .46044 -.46044 .46158 10903 10357)" rx="272" ry="533"/>
-  <path class="fil17" d="m11540 10194c-8 249-111 472-481 843-510 436-937 330-860 15 252 176 1243-197 1341-858z"/>
-  <path class="fil18" d="m11402 7527c-1473-1191-4015 3779-1349 3997-1727-420-887-2860 383-3831 418-283 486-341 966-166z"/>
-  <path class="fil19" d="m8886 9610c231-795 525-1433 1001-1895-605 363-988 1101-1001 1895z"/>
-  <path class="fil20" d="m9732 11521c2190 186 2793-2792 1652-3950-242-11-331-121-512-211 1535-125 1805 4405-1140 4161z"/>
-  <path class="fil15" d="m13790 9653c0 11-7 18-22 22-17 5-72 7-162 7-84 0-137-2-161-7-20-4-33-17-38-39-18-85-33-131-43-137-10-3-88-4-235-4-99 0-152 2-159 7-10 10-22 41-34 94-12 49-25 75-41 79-20 5-86 7-199 7-90 0-134-8-134-25 0-15 65-202 197-559 142-387 219-600 232-638 7-22 15-33 24-33 16 0 41 2 74 4 33 3 58 5 74 5s39-1 70-3 54-4 69-4c11 0 22 10 31 29 28 62 112 271 249 630 139 362 208 550 208 565zm-620-797c-12 26-33 82-62 167-31 91-46 144-46 160 0 11 17 16 52 18 18 1 47 1 88 1 38 0 59-4 63-14 1-3 1-6 1-12 0-19-12-72-38-158-26-85-45-138-58-162zm1732 622c0 9-6 22-19 37-107 127-250 191-427 191-182 0-330-62-443-186-110-120-165-272-165-455 0-177 54-328 162-451 113-130 256-194 430-194 189 0 337 57 444 174 12 12 18 24 18 34 0 11-21 52-61 123-41 71-66 111-77 120-5 5-10 7-17 7-3 0-18-12-44-35-32-28-62-50-93-66-46-23-94-35-143-35-86 0-155 32-206 96-47 60-71 133-71 221 0 89 24 163 71 223 51 65 120 98 206 98 50 0 99-11 144-33 30-15 60-35 91-61 26-22 40-33 43-33 6 0 11 3 17 9 9 11 35 47 76 109 42 65 64 101 64 107zm1268 170c0 13-3 20-8 23-2 2-10 3-24 4-36 4-86 6-150 6-91 0-145-2-161-6-16-3-24-11-24-23 0-46 2-115 6-208s6-161 6-208c0-22-6-36-19-39-20-5-90-7-212-7s-193 2-213 7c-13 3-20 16-20 39 0 46 2 114 5 204 3 91 4 159 4 205 0 17-8 27-23 30-19 4-74 6-165 6-78 0-129-2-150-6-17-3-25-11-25-27 0-63 3-158 9-285 5-127 8-222 8-286 0-67-3-169-8-305-6-135-9-237-9-304 0-13 6-20 18-20 18 0 45 1 82 3 36 2 63 3 81 3 19 0 47-1 85-3s66-3 84-3c10 0 15 6 15 16 0 44-3 109-9 197-6 87-9 152-9 196 0 20 6 32 17 36 15 4 89 7 224 7 124 0 197-3 217-7 14-4 20-16 20-36 0-42-2-106-6-191-4-84-6-148-6-191 0-18 7-27 22-27 17 0 42 1 77 3s61 3 78 3 43-1 78-3c34-2 61-3 78-3s25 7 25 21c0 67-2 169-8 304-5 135-8 237-8 304 0 64 3 159 9 286s9 222 9 285z"/>
-  <path class="fil21" d="m16908 9851c-17 1-25-8-25-26 0-7 1-17 3-32 2-14 3-25 3-33 0-10-2-26-5-47s-4-37-4-47c0-12 9-21 26-28 42-16 122-58 242-125 52-38 131-93 236-167 5-4 14-8 25-13 6 2 13 6 22 13 19 20 50 49 92 86 24 14 59 35 104 65 14 9 21 17 21 25 0 7-7 16-18 27-75 70-187 137-336 200s-274 97-375 102h-11z"/>
-  <path class="fil22" d="m12564 11846v-461h139l83 315 81-315h141v461h-87v-363l-91 363h-90l-90-363v363h-86zm536 0v-334h88v334h-88zm-15-377 44-94h99l-87 94h-56zm500 377h-81v-49c-14 19-30 33-49 43-18 10-37 14-56 14-39 0-71-15-99-46-27-31-41-74-41-130s13-99 40-129c27-29 60-44 101-44 37 0 70 16 97 46v-166h88v461zm-235-173c0 35 5 61 14 77 15 23 35 35 60 35 20 0 38-9 52-26 14-18 21-43 21-78 0-38-7-66-21-83-13-17-31-25-53-25-20 0-38 8-52 25-14 16-21 41-21 75zm322-206v-82h88v82h-88zm0 379v-334h88v334h-88zm244-231-79-14c9-33 24-57 46-73 22-15 55-23 98-23 40 0 69 5 88 14 20 9 33 21 41 35 8 15 12 41 12 79l-2 103c0 30 2 51 5 65 2 14 8 29 15 45h-87c-2-6-5-14-9-26-1-5-2-8-3-10-15 15-31 26-48 33-17 8-35 11-55 11-34 0-61-9-81-28-19-18-29-42-29-70 0-19 4-36 13-51 9-14 22-26 38-34 16-7 40-14 70-20 41-8 70-15 86-22v-9c0-17-4-29-13-37-8-7-24-10-47-10-16 0-28 3-37 9s-16 17-22 33zm119 71c-11 4-29 9-54 14-24 5-40 10-48 15-11 9-17 19-17 31 0 13 4 23 14 32 9 9 21 14 35 14 16 0 31-5 45-16 11-8 18-17 21-29 3-7 4-22 4-43v-18zm744 160h-100l-40-105h-185l-38 105h-99l179-461h99l184 461zm-170-183-64-170-62 170h126zm219 183v-461h88v461h-88zm332-334v70h-61v135c0 28 1 44 2 48 1 5 4 9 8 12s9 4 15 4c8 0 20-3 35-8l8 68c-21 9-44 13-70 13-16 0-30-2-43-8-13-5-22-12-28-20-6-9-10-21-12-35-2-10-3-31-3-63v-146h-41v-70h41v-66l88-52v118h61zm254 228 89 15c-12 33-30 57-54 74s-55 25-92 25c-58 0-101-19-128-57-22-30-33-68-33-115 0-55 14-99 43-130s65-47 110-47c49 0 88 16 117 49s42 83 41 151h-221c1 26 8 47 22 61 13 15 30 22 50 22 14 0 26-4 35-11 10-8 17-20 21-37zm6-89c-1-26-8-45-20-58-13-14-28-20-46-20-19 0-35 7-48 21-12 14-18 33-18 57h132zm244 195h-89v-334h82v47c14-22 27-37 38-44s24-10 38-10c21 0 40 6 59 17l-28 77c-15-10-28-15-41-15s-23 4-32 10c-8 7-15 19-20 37s-7 55-7 112v103zm469 0h-88v-170c0-36-2-60-5-70-4-11-10-19-19-25s-19-8-31-8c-15 0-29 4-41 12-13 8-21 20-26 33-4 14-6 40-6 77v151h-89v-334h82v49c29-37 66-56 111-56 19 0 37 3 53 10 17 8 29 16 37 27s14 24 18 37c3 14 4 34 4 60v207zm155-231-79-14c9-33 24-57 46-73 22-15 55-23 98-23 40 0 69 5 88 14s33 21 41 35c8 15 12 41 12 79l-2 103c0 30 2 51 5 65 2 14 8 29 15 45h-87c-2-6-5-14-9-26-1-5-2-8-3-10-15 15-31 26-48 33-17 8-35 11-55 11-34 0-61-9-81-28-20-18-29-42-29-70 0-19 4-36 13-51 9-14 22-26 38-34 16-7 40-14 70-20 41-8 70-15 86-22v-9c0-17-4-29-13-37-8-7-24-10-47-10-16 0-28 3-37 9s-16 17-22 33zm119 71c-11 4-29 9-54 14-24 5-40 10-48 15-11 9-17 19-17 31 0 13 4 23 14 32 9 9 21 14 35 14 16 0 31-5 45-16 11-8 18-17 21-29 3-7 4-22 4-43v-18zm326-174v70h-60v135c0 28 0 44 1 48 2 5 4 9 8 12s9 4 15 4c9 0 20-3 36-8l7 68c-20 9-43 13-69 13-16 0-30-2-43-8-13-5-22-12-28-20-6-9-10-21-13-35-2-10-2-31-2-63v-146h-41v-70h41v-66l88-52v118h60zm62-45v-82h88v82h-88zm0 379v-334h88v334h-88zm271 0-135-334h93l62 170 19 57c5-14 8-24 9-28 3-10 6-19 9-29l64-170h91l-133 334h-79zm331-231-80-14c9-33 25-57 47-73 22-15 55-23 98-23 39 0 69 5 88 14s33 21 41 35c8 15 12 41 12 79l-2 103c0 30 2 51 4 65 3 14 8 29 16 45h-87c-3-6-5-14-9-26-1-5-2-8-3-10-15 15-31 26-48 33-17 8-36 11-55 11-34 0-61-9-81-28-20-18-30-42-30-70 0-19 5-36 14-51 9-14 22-26 38-34 16-7 39-14 70-20 41-8 70-15 86-22v-9c0-17-5-29-13-37-8-7-24-10-47-10-16 0-28 3-37 9s-16 17-22 33zm119 71c-12 4-29 9-54 14s-41 10-48 15c-12 9-17 19-17 31 0 13 4 23 13 32 10 9 21 14 36 14 16 0 31-5 45-16 11-8 18-17 21-29 2-7 4-22 4-43v-18zm350-174h82v49c11-17 25-30 43-41 19-10 39-15 61-15 39 0 72 15 99 46 27 30 40 72 40 127 0 56-13 99-41 130-27 31-60 46-99 46-18 0-35-3-50-11-15-7-31-20-47-37v167h-88v-461zm87 162c0 38 7 65 22 83s33 27 54 27 38-8 51-25c14-16 21-43 21-81 0-35-7-61-21-78s-32-26-52-26c-22 0-40 9-54 26-14 16-21 41-21 74zm374-59-80-14c9-33 25-57 47-73 22-15 54-23 98-23 39 0 69 5 88 14s33 21 41 35c7 15 11 41 11 79l-1 103c0 30 1 51 4 65s8 29 16 45h-88c-2-6-5-14-8-26-1-5-2-8-3-10-15 15-31 26-48 33-18 8-36 11-55 11-34 0-61-9-81-28-20-18-30-42-30-70 0-19 5-36 14-51 9-14 21-26 38-34 16-7 39-14 70-20 41-8 70-15 85-22v-9c0-17-4-29-12-37-9-7-24-10-48-10-16 0-28 3-37 9-8 6-16 17-21 33zm118 71c-11 4-29 9-53 14-25 5-41 10-48 15-12 9-18 19-18 31 0 13 5 23 14 32s21 14 35 14c16 0 31-5 46-16 11-8 18-17 21-29 2-7 3-22 3-43v-18zm259 160h-89v-334h82v47c14-22 27-37 38-44s24-10 38-10c21 0 40 6 59 17l-28 77c-15-10-28-15-41-15s-23 4-32 10c-8 7-15 19-20 37s-7 55-7 112v103zm231-231-79-14c9-33 24-57 46-73 22-15 55-23 98-23 39 0 69 5 88 14s33 21 41 35c8 15 12 41 12 79l-2 103c0 30 2 51 5 65 2 14 8 29 15 45h-87c-2-6-5-14-9-26-1-5-2-8-3-10-15 15-31 26-48 33-17 8-35 11-55 11-34 0-61-9-81-28-20-18-29-42-29-70 0-19 4-36 13-51 9-14 22-26 38-34 16-7 39-14 70-20 41-8 70-15 86-22v-9c0-17-4-29-13-37-8-7-24-10-47-10-16 0-28 3-37 9s-16 17-22 33zm119 71c-12 4-29 9-54 14-24 5-41 10-48 15-12 9-17 19-17 31 0 13 4 23 14 32 9 9 20 14 35 14 16 0 31-5 45-16 11-8 18-17 21-29 3-7 4-22 4-43v-18zm505-174v70h-61v135c0 28 1 44 2 48 1 5 4 9 8 12s9 4 15 4c8 0 20-3 36-8l7 68c-21 9-44 13-70 13-16 0-30-2-43-8-12-5-22-12-28-20-6-9-10-21-12-35-2-10-3-31-3-63v-146h-40v-70h40v-66l88-52v118h61zm41 163c0-29 7-58 22-85 14-28 35-49 61-63 27-15 56-22 89-22 50 0 92 16 124 49s48 75 48 125-16 92-48 125c-33 34-74 50-123 50-31 0-60-7-88-20-28-14-49-35-63-61-15-27-22-60-22-98zm91 5c0 33 8 58 23 76 16 18 35 26 58 26s43-8 58-26c16-18 24-43 24-77 0-33-8-58-24-75-15-18-35-27-58-27s-42 9-58 27c-15 17-23 43-23 76zm629 166h-82v-49c-13 19-29 33-48 43s-37 14-56 14c-39 0-72-15-99-46s-41-74-41-130 13-99 40-129c27-29 60-44 101-44 37 0 70 16 97 46v-166h88v461zm-235-173c0 35 4 61 14 77 14 23 34 35 60 35 20 0 37-9 52-26 14-18 21-43 21-78 0-38-7-66-21-83s-31-25-53-25c-21 0-38 8-52 25-14 16-21 41-21 75zm301 2c0-29 7-58 22-85 14-28 35-49 61-63 27-15 56-22 89-22 51 0 92 16 124 49s48 75 48 125-16 92-48 125c-33 34-74 50-123 50-31 0-60-7-88-20-28-14-49-35-63-61-15-27-22-60-22-98zm91 5c0 33 8 58 23 76 16 18 36 26 59 26s42-8 57-26c16-18 24-43 24-77 0-33-8-58-24-75-15-18-34-27-57-27s-43 9-59 27c-15 17-23 43-23 76zm502 166v-461h88v461h-88zm399 0v-50c-12 18-28 32-48 43-20 10-41 15-63 15s-42-5-60-14c-18-10-31-24-39-42s-12-43-12-74v-212h88v154c0 47 2 76 5 86 3 11 9 19 18 25 9 7 20 10 33 10 15 0 29-4 41-13 12-8 20-18 24-31 5-12 7-42 7-90v-141h88v334h-82zm164 21 101 12c2 12 6 21 12 25 8 6 21 10 39 10 24 0 41-4 52-11 8-4 14-12 18-22 3-7 4-21 4-41v-48c-26 36-60 54-100 54-45 0-80-19-107-57-20-30-30-67-30-112 0-56 13-98 40-128 27-29 61-44 101-44 41 0 75 18 102 54v-47h82v299c0 40-3 69-10 89-6 19-15 34-27 46-12 11-27 19-47 26-20 6-44 9-74 9-57 0-97-10-121-29-23-20-35-44-35-74v-11zm79-195c0 36 7 61 21 78 14 16 30 25 51 25s39-9 54-26 22-41 22-74c0-35-7-61-21-77-14-17-32-25-54-25-21 0-38 8-52 24-14 17-21 42-21 75zm388-57-80-14c9-33 25-57 47-73 22-15 55-23 98-23 39 0 69 5 88 14s33 21 41 35c8 15 12 41 12 79l-2 103c0 30 2 51 4 65 3 14 8 29 16 45h-87c-3-6-5-14-9-26-1-5-2-8-3-10-15 15-31 26-48 33-17 8-36 11-55 11-34 0-61-9-81-28-20-18-30-42-30-70 0-19 5-36 14-51 9-14 22-26 38-34 16-7 39-14 70-20 41-8 70-15 86-22v-9c0-17-5-29-13-37-8-7-24-10-48-10-15 0-28 3-36 9-9 6-16 17-22 33zm119 71c-12 4-30 9-54 14-25 5-41 10-48 15-12 9-17 19-17 31 0 13 4 23 13 32 10 9 21 14 36 14s31-5 45-16c11-8 18-17 21-29 2-7 4-22 4-43v-18zm258 160h-88v-334h81v47c14-22 27-37 38-44 12-7 24-10 39-10 20 0 39 6 58 17l-27 77c-15-10-29-15-42-15-12 0-23 4-32 10-8 7-15 19-20 37s-7 55-7 112v103z"/>
-  <path class="fil21" d="m13615 10953c0 10-6 22-19 38-110 131-256 196-439 196-187 0-339-63-455-191-113-123-170-279-170-468 0-182 56-336 167-463 115-133 263-200 441-200 195 0 347 60 457 179 12 13 18 25 18 35 0 12-21 54-62 127-42 73-68 114-79 123-5 5-11 7-18 7-3 0-18-12-45-36-32-28-64-51-95-67-48-24-97-36-148-36-88 0-158 33-211 99-49 61-73 136-73 226 0 91 24 168 73 230 53 67 123 100 211 100 52 0 102-11 149-34 30-15 61-36 93-62 26-23 41-34 44-34 6 0 12 3 18 9 9 11 35 49 78 113 43 66 65 103 65 109zm1346-426c0 187-59 343-179 470-121 128-275 192-461 192s-339-64-461-194c-121-126-180-282-180-468 0-187 59-343 180-470 122-130 275-195 461-195 183 0 337 65 460 195 120 128 180 285 180 470zm-340-2c0-90-28-167-82-229-57-66-130-99-218-99-85 0-157 34-215 102-57 66-86 142-86 228 0 91 27 168 80 229 57 64 130 96 221 96 84 0 156-33 215-101 56-65 85-140 85-226zm1817 603c0 19-8 28-26 28h-318c-17 0-26-10-26-31 0-61 2-151 7-272 4-121 6-212 6-272 0-17-3-27-9-28-7 4-47 96-121 277-43 107-86 213-130 319-5 13-13 21-22 24-3 0-15 1-36 1-30 0-49-6-55-18-32-66-75-162-128-288-57-133-99-229-127-288-1-3-4-6-8-10-4 5-7 14-7 26 0 59 2 147 5 264 3 118 5 206 5 265 0 21-9 31-26 31h-300c-12 0-19-2-22-6s-4-10-4-20c0-65 3-164 9-294 6-131 9-230 9-295 0-69-3-200-9-391-1-50-3-124-8-222l-1-15c-1-12 12-18 38-18 33 0 82-1 148-3s116-3 149-3c7 0 16 13 28 38l263 575c19 39 34 59 47 59 7 0 21-23 42-68 61-125 151-315 270-569 23-52 59-35 112-32 35 2 61 3 79 3 15 0 38-2 69-5s54-5 69-5c18 0 27 8 27 22 0 71-3 176-8 317s-7 246-7 317c0 65 3 163 8 294 6 131 8 228 8 293zm1087-251c0 26-6 73-16 142-11 75-20 119-29 133-7 12-17 18-29 18-6 0-15-1-27-3-44-6-172-9-383-9-46 0-115 0-206-1s-160-1-205-1c-20 0-30-8-30-26 0-67 4-168 11-303 8-134 11-235 11-302 0-68-3-196-11-382-2-48-5-120-10-215l-1-12c-1-14 7-21 23-21 44 0 111 1 200 3 89 3 156 4 200 4s110-1 198-4c88-2 154-3 198-3 31 0 49 12 54 35 3 13 8 55 14 125 7 69 10 112 10 127 0 12-6 18-18 18-4 0-10 0-19-1-160-12-303-19-430-19-32 0-52 7-59 23-3 7-4 30-4 69 0 41 6 67 18 81 10 11 29 17 58 17 6 0 18-1 35-1 18-1 32-2 44-2 75 0 152-2 229-6 7 0 23-2 50-4 20-3 36-4 49-4 14 0 21 7 21 21 0-13-5 33-16 138-5 47-8 95-8 143 0 12-8 18-26 18l-81-9c-34-3-112-5-234-5h-95c-25 0-39 6-43 18-1 3-1 22-1 56 0 45 3 75 8 88 11 23 49 36 116 40h131c32 0 79-2 142-8 63-5 110-8 141-8 13 0 20 11 20 32zm1191 270c0 4-6 7-18 9-23 4-80 6-172 6-78 0-131-2-159-6-14-1-21-3-23-4-4-2-8-8-12-18-10-24-23-59-40-105-24-59-61-148-111-265-10-23-35-36-74-39 18 1-13 2-92 2-9 0-13 15-13 46 0 41 3 102 11 183 7 80 11 142 11 182 0 10-3 17-8 18-9 1-17 1-25 2-36 2-91 4-166 4-86 0-137-2-155-6-17-3-26-13-26-27 0-66 3-166 9-299 7-133 10-233 10-300 0-253-6-451-17-593l-1-13c0-10 9-17 28-20 20-4 112-7 275-11 111-3 199-4 265-4 137 0 248 31 335 93 97 69 146 170 146 301 0 87-13 157-38 209s-71 103-138 152c-14 10-21 19-21 27 0 0 36 75 110 226 73 151 109 234 109 250zm-377-807c0-73-24-123-72-152-37-21-96-32-175-32-57 0-87 9-90 26-4 21-6 79-6 176 0 14 0 35 1 62s1 46 1 60c0 3 9 6 29 9 36 5 75 8 115 8 131 0 197-52 197-157zm1528 613c0 10-6 22-18 38-111 131-257 196-440 196-187 0-338-63-455-191-113-123-169-279-169-468 0-182 55-336 166-463 116-133 263-200 442-200 194 0 346 60 456 179 12 13 18 25 18 35 0 12-20 54-62 127s-68 114-79 123c-5 5-11 7-18 7-3 0-18-12-45-36-32-28-64-51-95-67-47-24-97-36-147-36-89 0-159 33-212 99-48 61-73 136-73 226 0 91 25 168 73 230 53 67 123 100 212 100 51 0 101-11 148-34 30-15 61-36 93-62 26-23 41-34 44-34 6 0 12 3 18 9 10 11 36 49 78 113 44 66 65 103 65 109zm463-461c0 71 1 177 5 319s6 248 6 319c0 12-3 20-8 23-2 0-9 2-24 3-39 5-91 8-156 8-88 0-143-3-167-8-18-3-27-12-27-27 0 9 3-44 8-159 11-243 16-402 16-478 0-64-2-161-6-289s-6-224-6-288c0-14 6-20 20-20 19 0 47 1 84 2 38 2 66 3 84 3 19 0 46-1 83-3 36-1 63-2 82-2 17 0 26 6 26 20 0 64-3 160-10 288s-10 225-10 289zm1432 35c0 187-59 343-179 470-121 128-275 192-462 192-185 0-339-64-461-194-120-126-180-282-180-468 0-187 60-343 180-470 122-130 276-195 461-195 184 0 338 65 460 195 121 128 181 285 181 470zm-341-2c0-90-27-167-81-229-57-66-130-99-219-99-84 0-156 34-215 102-56 66-85 142-85 228 0 91 27 168 80 229 56 64 130 96 220 96 85 0 157-33 216-101 56-65 84-140 84-226zm1089 217c0 121-51 226-154 313-90 77-199 125-328 146-5 1-8 1-11 1-14 0-45-42-92-126s-71-135-71-154c0-6 5-10 14-12 86-20 143-37 171-51 62-31 93-78 93-139 0-39-20-82-61-130-70-82-108-127-114-136-42-62-62-131-62-207 0-110 50-201 152-273 83-60 184-99 305-117 6-1 11-1 15-1 9 0 16 7 22 21 16 44 52 124 109 238 2 4 3 7 3 9 0 10-6 16-17 16-5 0-13-1-24-3-12-2-20-3-26-3-44 0-82 10-114 30-39 23-59 54-59 95 0 37 22 81 65 135 76 96 116 146 120 151 43 66 64 131 64 197z"/>
- 
+  <path
+   class="fil21"
+   d="m 1760.3442,1466.3161 c 0,3.52 -2.112,7.744 -6.688,13.375 -38.719,46.111 -90.111,68.99 -154.525,68.99 -65.822,0 -119.325,-22.175 -160.157,-67.229 -39.775,-43.296 -59.839,-98.207 -59.839,-164.734 0,-64.0621 19.712,-118.2694 58.784,-162.9723 40.478,-46.8151 92.574,-70.3986 155.228,-70.3986 68.639,0 122.142,21.1195 160.861,63.0067 4.224,4.5759 6.336,8.7998 6.336,12.3197 0,4.224 -7.392,19.0077 -21.823,44.7032 -14.784,25.6956 -23.936,40.127 -27.808,43.2951 -1.76,1.7599 -3.872,2.4637 -6.336,2.4637 -1.056,0 -6.336,-4.2236 -15.839,-12.6714 -11.264,-9.8561 -22.528,-17.9517 -33.441,-23.5836 -16.895,-8.4478 -34.142,-12.6719 -52.094,-12.6719 -30.975,0 -55.615,11.6159 -74.27,34.8472 -17.248,21.4721 -25.696,47.8712 -25.696,79.5512 0,32.031 8.448,59.134 25.696,80.958 18.655,23.584 43.295,35.2 74.27,35.2 18.303,0 35.904,-3.872 52.447,-11.969 10.56,-5.28 21.472,-12.671 32.735,-21.823 9.152,-8.096 14.432,-11.968 15.488,-11.968 2.112,0 4.224,1.056 6.336,3.168 3.168,3.872 12.32,17.247 27.455,39.775 15.136,23.231 22.88,36.255 22.88,38.368 z m 473.783,-149.95 c 0,65.823 -20.768,120.734 -63.007,165.437 -42.591,45.055 -96.798,67.583 -162.269,67.583 -65.471,0 -119.326,-22.528 -162.269,-68.287 -42.591,-44.351 -63.359,-99.263 -63.359,-164.733 0,-65.8222 20.768,-120.7333 63.359,-165.4363 42.943,-45.7591 96.798,-68.6385 162.269,-68.6385 64.414,0 118.622,22.8794 161.917,68.6385 42.239,45.0552 63.359,100.3179 63.359,165.4363 z m -119.678,-0.703 c 0,-31.6802 -9.856,-58.7835 -28.864,-80.6072 -20.063,-23.2313 -45.758,-34.8472 -76.734,-34.8472 -29.919,0 -55.263,11.9681 -75.679,35.9033 -20.063,23.2319 -30.271,49.9833 -30.271,80.2541 0,32.032 9.504,59.135 28.159,80.607 20.064,22.527 45.76,33.792 77.791,33.792 29.567,0 54.911,-11.616 75.678,-35.552 19.712,-22.879 29.92,-49.279 29.92,-79.55 z m 639.571,212.251 c 0,6.688 -2.816,9.856 -9.152,9.856 h -111.934 c -5.983,0 -9.151,-3.52 -9.151,-10.912 0,-21.472 0.703,-53.15 2.464,-95.742 1.408,-42.591 2.111,-74.623 2.111,-95.742 0,-5.984 -1.055,-9.504 -3.168,-9.856 -2.463,1.409 -16.542,33.791 -42.59,97.503 -15.136,37.663 -30.272,74.973 -45.76,112.286 -1.759,4.575 -4.576,7.391 -7.744,8.447 -1.056,0 -5.279,0.351 -12.671,0.351 -10.56,0 -17.248,-2.111 -19.36,-6.335 -11.264,-23.231 -26.4,-57.023 -45.055,-101.374 -20.064,-46.816 -34.847,-80.607 -44.702,-101.374 -0.353,-1.056 -1.409,-2.112 -2.817,-3.52 -1.408,1.76 -2.464,4.928 -2.464,9.152 0,20.768 0.704,51.743 1.76,92.926 1.056,41.535 1.76,72.511 1.76,93.278 0,7.392 -3.168,10.912 -9.152,10.912 h -105.598 c -4.223,0 -6.687,-0.704 -7.743,-2.112 -1.056,-1.408 -1.409,-3.52 -1.409,-7.04 0,-22.88 1.057,-57.727 3.168,-103.486 2.112,-46.111 3.169,-80.959 3.169,-103.838 0,-24.287 -1.057,-70.398 -3.169,-137.629 -0.352,-17.5996 -1.055,-43.6471 -2.815,-78.1424 l -0.353,-5.2799 c -0.352,-4.2239 4.225,-6.3358 13.377,-6.3358 11.616,0 28.862,-0.3521 52.094,-1.0561 23.232,-0.7039 40.832,-1.0559 52.448,-1.0559 2.463,0 5.631,4.5759 9.855,13.3757 l 92.574,202.3964 c 6.688,13.727 11.968,20.767 16.544,20.767 2.464,0 7.392,-8.096 14.784,-23.936 21.471,-43.9987 53.15,-110.8774 95.037,-200.2833 8.096,-18.3037 20.768,-12.3198 39.424,-11.2639 12.32,0.704 21.472,1.0561 27.808,1.0561 5.28,0 13.375,-0.704 24.287,-1.76 10.912,-1.056 19.008,-1.7599 24.287,-1.7599 6.336,0 9.504,2.8159 9.504,7.7438 0,24.9915 -1.056,61.9507 -2.815,111.5816 -1.761,49.6314 -2.465,86.5906 -2.465,111.5816 0,22.879 1.056,57.375 2.816,103.486 2.112,46.111 2.816,80.255 2.816,103.134 z m 382.617,-88.35 c 0,9.151 -2.113,25.696 -5.633,49.983 -3.872,26.4 -7.039,41.888 -10.207,46.814 -2.463,4.225 -5.984,6.337 -10.207,6.337 -2.113,0 -5.281,-0.352 -9.505,-1.056 -15.488,-2.112 -60.542,-3.168 -134.813,-3.168 -16.192,0 -40.48,0 -72.51,-0.352 -32.032,-0.352 -56.32,-0.352 -72.159,-0.352 -7.04,0 -10.56,-2.816 -10.56,-9.152 0,-23.583 1.408,-59.135 3.872,-106.654 2.816,-47.167 3.872,-82.718 3.872,-106.301 0,-23.936 -1.056,-68.9912 -3.872,-134.4619 -0.704,-16.8957 -1.759,-42.2391 -3.52,-75.6785 l -0.352,-4.2239 c -0.352,-4.9279 2.464,-7.3918 8.096,-7.3918 15.488,0 39.071,0.352 70.399,1.056 31.327,1.0559 54.911,1.4079 70.399,1.4079 15.487,0 38.719,-0.352 69.694,-1.4079 30.975,-0.704 54.207,-1.056 69.695,-1.056 10.911,0 17.247,4.2239 19.008,12.3197 1.055,4.576 2.815,19.3596 4.926,43.9991 2.465,24.2875 3.521,39.4233 3.521,44.7032 0,4.2235 -2.112,6.3357 -6.336,6.3357 -1.408,0 -3.52,0 -6.688,-0.3517 -56.319,-4.2241 -106.654,-6.6878 -151.357,-6.6878 -11.264,0 -18.303,2.4637 -20.768,8.0955 -1.055,2.4638 -1.407,10.5599 -1.407,24.2874 0,14.432 2.112,23.5836 6.335,28.5116 3.52,3.872 10.208,5.9841 20.416,5.9841 2.112,0 6.336,-0.3522 12.32,-0.3522 6.336,-0.3522 11.264,-0.7039 15.488,-0.7039 26.399,0 53.503,-0.7038 80.606,-2.112 2.464,0 8.096,-0.7038 17.6,-1.4077 7.039,-1.0561 12.671,-1.4083 17.247,-1.4083 4.928,0 7.392,2.4637 7.392,7.3918 0,-4.5758 -1.76,11.6159 -5.632,48.5756 -1.76,16.543 -2.816,33.439 -2.816,50.335 0,4.224 -2.816,6.335 -9.152,6.335 0,0 -9.503,-1.056 -28.511,-3.167 -11.968,-1.057 -39.423,-1.761 -82.366,-1.761 h -33.44 c -8.799,0 -13.728,2.112 -15.135,6.337 -0.352,1.055 -0.352,7.744 -0.352,19.711 0,15.84 1.055,26.4 2.816,30.976 3.872,8.095 17.247,12.671 40.83,14.079 -0.351,0 14.785,0 46.111,0 11.265,0 27.808,-0.704 49.984,-2.816 22.176,-1.76 38.719,-2.816 49.631,-2.816 4.576,0 7.04,3.872 7.04,11.264 z m 419.223,95.038 c 0,1.408 -2.112,2.464 -6.335,3.168 -8.097,1.408 -28.16,2.112 -60.543,2.112 -27.456,0 -46.111,-0.704 -55.968,-2.112 -4.927,-0.352 -7.391,-1.056 -8.095,-1.409 -1.407,-0.703 -2.816,-2.815 -4.224,-6.335 -3.52,-8.448 -8.096,-20.768 -14.079,-36.959 -8.448,-20.768 -21.472,-52.095 -39.072,-93.278 -3.52,-8.096 -12.32,-12.672 -26.047,-13.728 6.335,0.352 -4.576,0.704 -32.384,0.704 -3.168,0 -4.576,5.28 -4.576,16.192 0,14.431 1.056,35.903 3.872,64.414 2.464,28.16 3.872,49.983 3.872,64.064 0,3.519 -1.055,5.983 -2.816,6.335 -3.168,0.352 -5.983,0.352 -8.8,0.704 -12.671,0.704 -32.031,1.408 -58.43,1.408 -30.272,0 -48.224,-0.704 -54.559,-2.112 -5.985,-1.056 -9.152,-4.576 -9.152,-9.504 0,-23.231 1.056,-58.43 3.167,-105.245 2.465,-46.816 3.521,-82.015 3.521,-105.599 0,-89.0541 -2.112,-158.7485 -5.984,-208.7315 l -0.352,-4.5758 c 0,-3.52 3.168,-5.9839 9.855,-7.0399 7.041,-1.408 39.424,-2.4639 96.798,-3.8719 39.072,-1.056 70.047,-1.408 93.279,-1.408 48.223,0 87.294,10.9118 117.918,32.7353 34.143,24.2875 51.39,59.8388 51.39,105.9498 0,30.6237 -4.575,55.2633 -13.375,73.567 -8.8,18.304 -24.992,36.255 -48.576,53.503 -4.927,3.52 -7.391,6.687 -7.391,9.503 0,0 12.671,26.399 38.719,79.551 25.696,53.151 38.367,82.366 38.367,87.998 z m -132.701,-284.0582 c 0,-25.6956 -8.448,-43.2951 -25.344,-53.5029 -13.023,-7.3919 -33.791,-11.2638 -61.599,-11.2638 -20.063,0 -30.623,3.1679 -31.679,9.1518 -1.408,7.3917 -2.112,27.8071 -2.112,61.9506 0,4.9281 0,12.3201 0.353,21.8236 0.351,9.5036 0.351,16.1919 0.351,21.1199 0,1.055 3.168,2.111 10.208,3.168 12.672,1.759 26.4,2.815 40.48,2.815 46.111,0 69.342,-18.3031 69.342,-55.2622 z m 537.845,215.7722 c 0,3.52 -2.112,7.744 -6.335,13.375 -39.072,46.111 -90.463,68.99 -154.878,68.99 -65.822,0 -118.973,-22.175 -160.156,-67.229 -39.776,-43.296 -59.487,-98.207 -59.487,-164.734 0,-64.0621 19.36,-118.2694 58.431,-162.9723 40.831,-46.8151 92.574,-70.3986 155.581,-70.3986 68.287,0 121.789,21.1195 160.509,63.0067 4.223,4.5759 6.335,8.7998 6.335,12.3197 0,4.224 -7.04,19.0077 -21.823,44.7032 -14.784,25.6956 -23.936,40.127 -27.808,43.2951 -1.76,1.7599 -3.872,2.4637 -6.336,2.4637 -1.056,0 -6.335,-4.2236 -15.839,-12.6714 -11.264,-9.8561 -22.528,-17.9517 -33.439,-23.5836 -16.544,-8.4478 -34.144,-12.6719 -51.743,-12.6719 -31.328,0 -55.967,11.6159 -74.623,34.8472 -16.895,21.4721 -25.696,47.8712 -25.696,79.5512 0,32.031 8.801,59.134 25.696,80.958 18.656,23.584 43.295,35.2 74.623,35.2 17.95,0 35.551,-3.872 52.095,-11.969 10.559,-5.28 21.471,-12.671 32.734,-21.823 9.153,-8.096 14.432,-11.968 15.488,-11.968 2.113,0 4.225,1.056 6.336,3.168 3.521,3.872 12.672,17.247 27.455,39.775 15.488,23.231 22.88,36.255 22.88,38.368 z m 162.973,-162.269 c 0,24.991 0.351,62.302 1.76,112.285 1.407,49.984 2.112,87.295 2.112,112.286 0,4.224 -1.056,7.04 -2.816,8.096 -0.705,0 -3.168,0.704 -8.448,1.056 -13.728,1.76 -32.031,2.816 -54.911,2.816 -30.975,0 -50.335,-1.056 -58.782,-2.816 -6.337,-1.056 -9.505,-4.224 -9.505,-9.504 0,3.169 1.057,-15.487 2.816,-55.967 3.872,-85.534 5.632,-141.5 5.632,-168.252 0,-22.5276 -0.704,-56.6714 -2.112,-101.7264 -1.407,-45.055 -2.111,-78.8463 -2.111,-101.3739 0,-4.9279 2.111,-7.0398 7.04,-7.0398 6.687,0 16.543,0.352 29.567,0.704 13.376,0.7039 23.231,1.0559 29.568,1.0559 6.687,0 16.192,-0.352 29.215,-1.0559 12.671,-0.352 22.175,-0.704 28.863,-0.704 5.984,0 9.151,2.1119 9.151,7.0398 0,22.5276 -1.055,56.3189 -3.52,101.3739 -2.463,45.055 -3.519,79.1988 -3.519,101.7264 z m 504.054,12.319 c 0,65.823 -20.768,120.734 -63.007,165.437 -42.591,45.055 -96.798,67.583 -162.621,67.583 -65.119,0 -119.325,-22.528 -162.269,-68.287 -42.239,-44.351 -63.358,-99.263 -63.358,-164.733 0,-65.8222 21.119,-120.7333 63.358,-165.4363 42.944,-45.7591 97.15,-68.6385 162.269,-68.6385 64.766,0 118.974,22.8794 161.917,68.6385 42.591,45.0552 63.711,100.3179 63.711,165.4363 z m -120.03,-0.703 c 0,-31.6802 -9.504,-58.7835 -28.512,-80.6072 -20.063,-23.2313 -45.758,-34.8472 -77.086,-34.8472 -29.567,0 -54.911,11.9681 -75.678,35.9033 -19.712,23.2319 -29.919,49.9833 -29.919,80.2541 0,32.032 9.503,59.135 28.158,80.607 19.712,22.527 45.76,33.792 77.439,33.792 29.919,0 55.263,-11.616 76.031,-35.552 19.711,-22.879 29.567,-49.279 29.567,-79.55 z m 383.321,76.382 c 0,42.591 -17.952,79.55 -54.207,110.174 -31.68,27.103 -70.047,43.999 -115.454,51.391 -1.76,0.352 -2.816,0.352 -3.872,0.352 -4.928,0 -15.839,-14.784 -32.383,-44.352 -16.544,-29.567 -24.992,-47.518 -24.992,-54.207 0,-2.111 1.76,-3.52 4.928,-4.224 30.271,-7.04 50.335,-13.023 60.191,-17.951 21.824,-10.912 32.735,-27.456 32.735,-48.927 0,-13.728 -7.039,-28.863 -21.471,-45.759 -24.64,-28.864 -38.016,-44.703 -40.127,-47.871 -14.784,-21.8243 -21.824,-46.1113 -21.824,-72.8624 0,-38.7194 17.599,-70.7508 53.503,-96.0943 29.215,-21.1196 64.766,-34.8473 107.358,-41.1832 2.111,-0.352 3.872,-0.352 5.28,-0.352 3.168,0 5.631,2.464 7.744,7.3919 5.631,15.4877 18.303,43.6471 38.367,83.7743 0.704,1.4079 1.055,2.464 1.055,3.1679 0,3.52 -2.111,5.6319 -5.983,5.6319 -1.76,0 -4.576,-0.352 -8.448,-1.0559 -4.224,-0.704 -7.04,-1.056 -9.152,-1.056 -15.487,0 -28.863,3.52 -40.127,10.5597 -13.728,8.0959 -20.768,19.0074 -20.768,33.4393 0,13.0236 7.744,28.5116 22.88,47.5193 26.751,33.7915 40.831,51.3905 42.239,53.1505 15.136,23.232 22.528,46.111 22.528,69.343 z"
+   id="path1255"
+   style="stroke-width:0.351993" />
+ </g>
 </svg>
