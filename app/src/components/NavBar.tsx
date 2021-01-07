@@ -91,12 +91,9 @@ export default function NavBar() {
       <AppBar
         position="static"
         color="default"
-        className={
-          (classes.appBar,
-          {
-            [classes.appBarShift]: open
-          })
-        }
+        className={clsx(classes.appBar, {
+          [classes.appBarShift]: open
+        })}
       >
         <Toolbar>
           <IconButton
