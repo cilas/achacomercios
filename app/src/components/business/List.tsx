@@ -3,6 +3,7 @@ import Container from '@material-ui/core/Container'
 import Grid from '@material-ui/core/Grid'
 import { makeStyles } from '@material-ui/core/styles'
 import BusinessCard from './BusinessCard'
+import Pagination from '@material-ui/lab/Pagination'
 
 const businessList = [
   {
@@ -24,7 +25,8 @@ const businessList = [
     id: 2,
     name: 'BANCO ABN AMRO REAL AGENCIA FLORESTA',
     address: 'AVENIDA ASSIS CHATEAUBRIAND, Número 264, Floresta',
-    phone: '(31)3274-4511'
+    phone: '(31)3274-4511',
+    image: ''
   }
 ]
 const useStyles = makeStyles(theme => ({
@@ -54,9 +56,8 @@ const useStyles = makeStyles(theme => ({
   cardContent: {
     flexGrow: 1
   },
-  footer: {
-    backgroundColor: theme.palette.background.paper,
-    padding: theme.spacing(6)
+  pagination: {
+    marginTop: '1rem'
   }
 }))
 
@@ -70,6 +71,15 @@ const BusinessList: React.FC = () => {
         {businessList.map(bs => (
           <BusinessCard key={bs.id} business={bs} />
         ))}
+      </Grid>
+      <Grid
+        className={classes.cardGrid}
+        container
+        direction="row"
+        justify="center"
+        alignItems="center"
+      >
+        <Pagination count={10} variant="outlined" shape="rounded" />
       </Grid>
     </Container>
   )
