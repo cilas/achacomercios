@@ -8,6 +8,7 @@ import CardActionArea from '@material-ui/core/CardActionArea'
 import CardContent from '@material-ui/core/CardContent'
 import CardMedia from '@material-ui/core/CardMedia'
 import Hidden from '@material-ui/core/Hidden'
+
 type IBusiness = {
   id: number
   name: string
@@ -30,7 +31,7 @@ const BusinessCard: React.FC<{ business: IBusiness }> = ({ business }) => {
   const classes = useStyles()
   return (
     <Grid item sm={12}>
-      <CardActionArea component="a" href="#">
+      <CardActionArea component="a" href="/business/teste-slug">
         <Card className={classes.card}>
           <div className={classes.cardDetails}>
             <CardContent>
